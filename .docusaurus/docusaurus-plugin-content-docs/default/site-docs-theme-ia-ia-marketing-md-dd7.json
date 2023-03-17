@@ -1,0 +1,22 @@
+{
+  "unversionedId": "theme-ia/ia-marketing",
+  "id": "theme-ia/ia-marketing",
+  "title": "IA et Marketing",
+  "description": "Dans un monde où la concurrence est de plus en plus forte, la mise en place d'une stratégie marketing efficace est devenue un enjeu primordial pour les entreprises de toutes tailles. C'est dans ce contexte que l'intelligence artificielle (IA) fait son entrée dans le monde du marketing. En effet, l'IA offre de nombreux avantages pour les entreprises qui souhaitent améliorer leur stratégie marketing, que ce soit en automatisant des tâches répétitives, en personnalisant l'expérience client ou en analysant des données plus précises. Cependant, l'implémentation de l'IA dans une stratégie marketing soulève également des défis et des limites qu'il est important de prendre en compte.",
+  "source": "@site/docs/theme-ia/ia-marketing.md",
+  "sourceDirName": "theme-ia",
+  "slug": "/theme-ia/ia-marketing",
+  "permalink": "/docs/theme-ia/ia-marketing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IA et Droit",
+    "permalink": "/docs/theme-ia/ia-droit"
+  }
+}

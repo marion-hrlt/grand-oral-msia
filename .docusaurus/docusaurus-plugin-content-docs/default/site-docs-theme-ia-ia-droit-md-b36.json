@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-ia/ia-droit",
+  "id": "theme-ia/ia-droit",
+  "title": "IA et Droit",
+  "description": "Intelligence artificielle (IA) est une technologie en constante évolution et de plus en plus d'entreprises l'utilisent pour améliorer leurs opérations, leur efficacité et leurs résultats. Cependant, l'utilisation de l'IA soulève des questions juridiques et éthiques importantes. Les entreprises doivent être conscientes des lois et des réglementations en matière d'IA et s'assurer que leurs pratiques sont conformes à ces règles.",
+  "source": "@site/docs/theme-ia/ia-droit.md",
+  "sourceDirName": "theme-ia",
+  "slug": "/theme-ia/ia-droit",
+  "permalink": "/docs/theme-ia/ia-droit",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intelligence artificielle",
+    "permalink": "/docs/category/intelligence-artificielle"
+  },
+  "next": {
+    "title": "IA et Marketing",
+    "permalink": "/docs/theme-ia/ia-marketing"
+  }
+}

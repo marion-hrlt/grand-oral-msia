@@ -1,0 +1,61 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Intelligence artificielle",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "IA et Droit",
+            "href": "/docs/theme-ia/ia-droit",
+            "docId": "theme-ia/ia-droit"
+          },
+          {
+            "type": "link",
+            "label": "IA et Marketing",
+            "href": "/docs/theme-ia/ia-marketing",
+            "docId": "theme-ia/ia-marketing"
+          }
+        ],
+        "href": "/docs/category/intelligence-artificielle"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Tutorial Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-ia/ia-droit": {
+      "id": "theme-ia/ia-droit",
+      "title": "IA et Droit",
+      "description": "Intelligence artificielle (IA) est une technologie en constante évolution et de plus en plus d'entreprises l'utilisent pour améliorer leurs opérations, leur efficacité et leurs résultats. Cependant, l'utilisation de l'IA soulève des questions juridiques et éthiques importantes. Les entreprises doivent être conscientes des lois et des réglementations en matière d'IA et s'assurer que leurs pratiques sont conformes à ces règles.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-ia/ia-marketing": {
+      "id": "theme-ia/ia-marketing",
+      "title": "IA et Marketing",
+      "description": "Dans un monde où la concurrence est de plus en plus forte, la mise en place d'une stratégie marketing efficace est devenue un enjeu primordial pour les entreprises de toutes tailles. C'est dans ce contexte que l'intelligence artificielle (IA) fait son entrée dans le monde du marketing. En effet, l'IA offre de nombreux avantages pour les entreprises qui souhaitent améliorer leur stratégie marketing, que ce soit en automatisant des tâches répétitives, en personnalisant l'expérience client ou en analysant des données plus précises. Cependant, l'implémentation de l'IA dans une stratégie marketing soulève également des défis et des limites qu'il est important de prendre en compte.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

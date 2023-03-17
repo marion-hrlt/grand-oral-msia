@@ -1,0 +1,15 @@
+{
+  "title": "Intelligence artificielle",
+  "slug": "/category/intelligence-artificielle",
+  "permalink": "/docs/category/intelligence-artificielle",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "IA et Droit",
+      "permalink": "/docs/theme-ia/ia-droit"
+    }
+  }
+}
