@@ -93,17 +93,18 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'acc'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', '754'),
+    component: ComponentCreator('/docs', 'b7c'),
     routes: [
       {
         path: '/docs/category/intelligence-artificielle',
         component: ComponentCreator('/docs/category/intelligence-artificielle', '889'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/mobilité',
+        component: ComponentCreator('/docs/category/mobilité', 'd4a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -122,6 +123,12 @@ export default [
       {
         path: '/docs/theme-ia/ia-marketing',
         component: ComponentCreator('/docs/theme-ia/ia-marketing', '29b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-mobilite/generations',
+        component: ComponentCreator('/docs/theme-mobilite/generations', 'a17'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

@@ -56,9 +56,9 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "links": [],
-      "copyright": "2023 Marion MSIA3."
+      "copyright": "2023 Grand Oral MSIA3."
     },
     "prism": {
       "theme": {

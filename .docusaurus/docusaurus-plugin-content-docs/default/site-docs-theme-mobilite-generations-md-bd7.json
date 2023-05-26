@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-mobilite/generations",
+  "id": "theme-mobilite/generations",
+  "title": "Les générations et la mobilité",
+  "description": "Le concept de mobilité prend de multiples dimensions : mobilité physique (changement de lieu de travail), mobilité fonctionnelle (changement de fonction au sein de la même entreprise), mobilité géographique (mutation dans une autre région ou un autre pays), mobilité professionnelle (changement de profession ou d'entreprise) et même la mobilité digitale (travail à distance, nomadisme digital). La mobilité est devenue un élément crucial pour la croissance personnelle et professionnelle des employés, ainsi que pour la flexibilité et l'adaptabilité des organisations.",
+  "source": "@site/docs/theme-mobilite/generations.md",
+  "sourceDirName": "theme-mobilite",
+  "slug": "/theme-mobilite/generations",
+  "permalink": "/docs/theme-mobilite/generations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mobilité",
+    "permalink": "/docs/category/mobilité"
+  },
+  "next": {
+    "title": "Intelligence artificielle",
+    "permalink": "/docs/category/intelligence-artificielle"
+  }
+}

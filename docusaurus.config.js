@@ -77,9 +77,9 @@ const config = {
 				],
 			},
 			footer: {
-				style: "dark",
+				style: "light",
 				links: [],
-				copyright: `${new Date().getFullYear()} Marion MSIA3.`,
+				copyright: `${new Date().getFullYear()} Grand Oral MSIA3.`,
 			},
 			prism: {
 				theme: lightCodeTheme,

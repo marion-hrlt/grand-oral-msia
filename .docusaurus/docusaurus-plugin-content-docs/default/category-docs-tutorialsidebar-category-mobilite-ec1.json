@@ -1,0 +1,15 @@
+{
+  "title": "Mobilité",
+  "slug": "/category/mobilité",
+  "permalink": "/docs/category/mobilité",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Les générations et la mobilité",
+      "permalink": "/docs/theme-mobilite/generations"
+    }
+  }
+}

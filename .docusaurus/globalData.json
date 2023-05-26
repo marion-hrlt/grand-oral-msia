@@ -26,6 +26,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "theme-mobilite/generations",
+              "path": "/docs/theme-mobilite/generations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/mobilité",
+              "path": "/docs/category/mobilité",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/intelligence-artificielle",
               "path": "/docs/category/intelligence-artificielle",
               "sidebar": "tutorialSidebar"

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-mobilite/generation",
+  "id": "theme-mobilite/generation",
+  "title": "Les générations",
+  "description": "Problématiques et contexte",
+  "source": "@site/docs/theme-mobilite/generation.md",
+  "sourceDirName": "theme-mobilite",
+  "slug": "/theme-mobilite/generation",
+  "permalink": "/docs/theme-mobilite/generation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mobilité",
+    "permalink": "/docs/category/mobilité"
+  },
+  "next": {
+    "title": "Management et stratégie",
+    "permalink": "/docs/category/management-et-stratégie"
+  }
+}

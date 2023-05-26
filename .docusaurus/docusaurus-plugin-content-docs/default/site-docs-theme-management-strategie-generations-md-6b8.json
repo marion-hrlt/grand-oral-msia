@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-management-strategie/generations",
+  "id": "theme-management-strategie/generations",
+  "title": "Les générations et le management",
+  "description": "Problématiques et contexte",
+  "source": "@site/docs/theme-management-strategie/generations.md",
+  "sourceDirName": "theme-management-strategie",
+  "slug": "/theme-management-strategie/generations",
+  "permalink": "/docs/theme-management-strategie/generations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Management et stratégie",
+    "permalink": "/docs/category/management-et-stratégie"
+  },
+  "next": {
+    "title": "Intelligence artificielle",
+    "permalink": "/docs/category/intelligence-artificielle"
+  }
+}

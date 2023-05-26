@@ -35,8 +35,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Intelligence artificielle",
-                "permalink": "/docs/category/intelligence-artificielle"
+                "title": "Mobilité",
+                "permalink": "/docs/category/mobilité"
               }
             },
             {
@@ -86,6 +86,32 @@
                 "title": "IA et Droit",
                 "permalink": "/docs/theme-ia/ia-droit"
               }
+            },
+            {
+              "unversionedId": "theme-mobilite/generations",
+              "id": "theme-mobilite/generations",
+              "title": "Les générations et la mobilité",
+              "description": "Le concept de mobilité prend de multiples dimensions : mobilité physique (changement de lieu de travail), mobilité fonctionnelle (changement de fonction au sein de la même entreprise), mobilité géographique (mutation dans une autre région ou un autre pays), mobilité professionnelle (changement de profession ou d'entreprise) et même la mobilité digitale (travail à distance, nomadisme digital). La mobilité est devenue un élément crucial pour la croissance personnelle et professionnelle des employés, ainsi que pour la flexibilité et l'adaptabilité des organisations.",
+              "source": "@site/docs/theme-mobilite/generations.md",
+              "sourceDirName": "theme-mobilite",
+              "slug": "/theme-mobilite/generations",
+              "permalink": "/docs/theme-mobilite/generations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mobilité",
+                "permalink": "/docs/category/mobilité"
+              },
+              "next": {
+                "title": "Intelligence artificielle",
+                "permalink": "/docs/category/intelligence-artificielle"
+              }
             }
           ],
           "drafts": [],
@@ -94,6 +120,23 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Mobilité",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "theme-mobilite/generations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/mobilité",
+                  "permalink": "/docs/category/mobilité"
+                }
               },
               {
                 "type": "category",
@@ -467,16 +510,6 @@
         "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
-      },
-      {
-        "type": "mdx",
-        "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md",
-        "title": "Markdown page example",
-        "description": "You don't need React to write simple standalone pages.",
-        "frontMatter": {
-          "title": "Markdown page example"
-        }
       }
     ]
   },

@@ -1,0 +1,15 @@
+{
+  "title": "Management et stratégie",
+  "slug": "/category/management-et-stratégie",
+  "permalink": "/docs/category/management-et-stratégie",
+  "navigation": {
+    "previous": {
+      "title": "Les générations et la mobilité",
+      "permalink": "/docs/theme-mobilite/generations"
+    },
+    "next": {
+      "title": "Les générations et le management",
+      "permalink": "/docs/theme-management-strategie/generations"
+    }
+  }
+}
