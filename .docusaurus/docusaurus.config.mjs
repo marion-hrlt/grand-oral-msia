@@ -58,7 +58,7 @@ export default {
     "footer": {
       "style": "light",
       "links": [],
-      "copyright": "2023 Grand Oral MSIA3."
+      "copyright": "2023 - Grand Oral MSIA3."
     },
     "prism": {
       "theme": {

@@ -32,3 +32,72 @@
 .custom-highlight {
 	color: #21af90;
 }
+
+.card-grid-intro {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 20px;
+}
+
+.card-intro {
+	background-color: #fdfdfd;
+	border: 1px solid #fdfdfd;
+	box-shadow: 0 1.5px 3px 0 rgb(0 0 0 / 15%);
+	padding: 5px 20px;
+	border-radius: 10px;
+	color: #333;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+	width: 100%;
+	height: auto;
+}
+
+.card-link-intro {
+	text-decoration: none;
+}
+
+.card-content-intro {
+	margin-bottom: 10px;
+	color: #444950;
+	padding: 20px;
+}
+
+.card-intro h2 {
+	font-size: 20px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+.card-intro p {
+	margin-bottom: 0;
+	font-size: 0.8rem;
+	padding: 0;
+	color: #535960;
+}
+
+.card-intro a {
+	text-decoration: none;
+}
+
+.card-intro:hover {
+	border: 1px solid #1fa588;
+}
+
+[data-theme="dark"] .card-intro {
+	background-color: #333;
+	color: #fff !important;
+	border: 1px solid #333;
+}
+
+[data-theme="dark"] .card-intro:hover {
+	border: 1px solid #25c2a0;
+}
+
+[data-theme="dark"] .card-content-intro {
+	color: #fff;
+}
+
+[data-theme="dark"] .card-content-intro p {
+	color: #fff;
+}

@@ -79,7 +79,7 @@ const config = {
 			footer: {
 				style: "light",
 				links: [],
-				copyright: `${new Date().getFullYear()} Grand Oral MSIA3.`,
+				copyright: `2023 - Grand Oral MSIA3.`,
 			},
 			prism: {
 				theme: lightCodeTheme,

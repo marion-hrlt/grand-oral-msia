@@ -21,7 +21,7 @@
               "unversionedId": "intro",
               "id": "intro",
               "title": "Introduction",
-              "description": "",
+              "description": "Liste des sujets du Grand Oral (2023)",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
