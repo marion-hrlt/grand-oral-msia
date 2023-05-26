@@ -88,6 +88,32 @@
               }
             },
             {
+              "unversionedId": "theme-mobilite/byod",
+              "id": "theme-mobilite/byod",
+              "title": "Le BYOD",
+              "description": "Problématiques et contexte",
+              "source": "@site/docs/theme-mobilite/byod.md",
+              "sourceDirName": "theme-mobilite",
+              "slug": "/theme-mobilite/byod",
+              "permalink": "/docs/theme-mobilite/byod",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mobilité",
+                "permalink": "/docs/category/mobilité"
+              },
+              "next": {
+                "title": "Télétravail",
+                "permalink": "/docs/theme-mobilite/teletravail"
+              }
+            },
+            {
               "unversionedId": "theme-mobilite/generations",
               "id": "theme-mobilite/generations",
               "title": "Les générations et la mobilité",
@@ -105,12 +131,38 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Mobilité",
-                "permalink": "/docs/category/mobilité"
+                "title": "Télétravail",
+                "permalink": "/docs/theme-mobilite/teletravail"
               },
               "next": {
                 "title": "Intelligence artificielle",
                 "permalink": "/docs/category/intelligence-artificielle"
+              }
+            },
+            {
+              "unversionedId": "theme-mobilite/teletravail",
+              "id": "theme-mobilite/teletravail",
+              "title": "Télétravail",
+              "description": "L'introduction du télétravail dans le monde de l'entreprise a provoqué une véritable révolution dans la manière dont le travail est organisé et réalisé. Ce concept, autrefois réservé à une petite frange de travailleurs, s'est généralisé de façon spectaculaire, notamment sous l'impulsion de l'avènement du numérique et de la mondialisation de l'économie. Il a gagné en visibilité et en importance avec la crise sanitaire du COVID-19, qui a contraint de nombreuses entreprises à adapter leurs modes de fonctionnement pour garantir la continuité de leur activité. Le télétravail offre de nombreux avantages, tels que la flexibilité du temps de travail, la réduction des coûts de transport et une meilleure conciliation entre la vie professionnelle et la vie privée.",
+              "source": "@site/docs/theme-mobilite/teletravail.md",
+              "sourceDirName": "theme-mobilite",
+              "slug": "/theme-mobilite/teletravail",
+              "permalink": "/docs/theme-mobilite/teletravail",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Le BYOD",
+                "permalink": "/docs/theme-mobilite/byod"
+              },
+              "next": {
+                "title": "Les générations et la mobilité",
+                "permalink": "/docs/theme-mobilite/generations"
               }
             }
           ],
@@ -127,6 +179,14 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "theme-mobilite/byod"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "theme-mobilite/teletravail"
+                  },
                   {
                     "type": "doc",
                     "id": "theme-mobilite/generations"

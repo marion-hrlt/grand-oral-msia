@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-mobilite/byod",
+  "id": "theme-mobilite/byod",
+  "title": "Le BYOD",
+  "description": "Problématiques et contexte",
+  "source": "@site/docs/theme-mobilite/byod.md",
+  "sourceDirName": "theme-mobilite",
+  "slug": "/theme-mobilite/byod",
+  "permalink": "/docs/theme-mobilite/byod",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mobilité",
+    "permalink": "/docs/category/mobilité"
+  },
+  "next": {
+    "title": "Télétravail",
+    "permalink": "/docs/theme-mobilite/teletravail"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-mobilite/teletravail",
+  "id": "theme-mobilite/teletravail",
+  "title": "Télétravail",
+  "description": "L'introduction du télétravail dans le monde de l'entreprise a provoqué une véritable révolution dans la manière dont le travail est organisé et réalisé. Ce concept, autrefois réservé à une petite frange de travailleurs, s'est généralisé de façon spectaculaire, notamment sous l'impulsion de l'avènement du numérique et de la mondialisation de l'économie. Il a gagné en visibilité et en importance avec la crise sanitaire du COVID-19, qui a contraint de nombreuses entreprises à adapter leurs modes de fonctionnement pour garantir la continuité de leur activité. Le télétravail offre de nombreux avantages, tels que la flexibilité du temps de travail, la réduction des coûts de transport et une meilleure conciliation entre la vie professionnelle et la vie privée.",
+  "source": "@site/docs/theme-mobilite/teletravail.md",
+  "sourceDirName": "theme-mobilite",
+  "slug": "/theme-mobilite/teletravail",
+  "permalink": "/docs/theme-mobilite/teletravail",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Le BYOD",
+    "permalink": "/docs/theme-mobilite/byod"
+  },
+  "next": {
+    "title": "Les générations et la mobilité",
+    "permalink": "/docs/theme-mobilite/generations"
+  }
+}

@@ -26,8 +26,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "theme-mobilite/byod",
+              "path": "/docs/theme-mobilite/byod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "theme-mobilite/generations",
               "path": "/docs/theme-mobilite/generations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-mobilite/teletravail",
+              "path": "/docs/theme-mobilite/teletravail",
               "sidebar": "tutorialSidebar"
             },
             {

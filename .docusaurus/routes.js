@@ -94,7 +94,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b7c'),
+    component: ComponentCreator('/docs', 'c9b'),
     routes: [
       {
         path: '/docs/category/intelligence-artificielle',
@@ -127,8 +127,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/theme-mobilite/byod',
+        component: ComponentCreator('/docs/theme-mobilite/byod', 'e33'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/theme-mobilite/generations',
         component: ComponentCreator('/docs/theme-mobilite/generations', 'a17'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-mobilite/teletravail',
+        component: ComponentCreator('/docs/theme-mobilite/teletravail', '37f'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

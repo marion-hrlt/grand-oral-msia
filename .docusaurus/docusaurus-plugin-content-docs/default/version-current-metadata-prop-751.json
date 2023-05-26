@@ -23,6 +23,18 @@
         "items": [
           {
             "type": "link",
+            "label": "Le BYOD",
+            "href": "/docs/theme-mobilite/byod",
+            "docId": "theme-mobilite/byod"
+          },
+          {
+            "type": "link",
+            "label": "Télétravail",
+            "href": "/docs/theme-mobilite/teletravail",
+            "docId": "theme-mobilite/teletravail"
+          },
+          {
+            "type": "link",
             "label": "Les générations et la mobilité",
             "href": "/docs/theme-mobilite/generations",
             "docId": "theme-mobilite/generations"
@@ -72,10 +84,22 @@
       "description": "Dans un monde où la concurrence est de plus en plus forte, la mise en place d'une stratégie marketing efficace est devenue un enjeu primordial pour les entreprises de toutes tailles. C'est dans ce contexte que l'intelligence artificielle (IA) fait son entrée dans le monde du marketing. En effet, l'IA offre de nombreux avantages pour les entreprises qui souhaitent améliorer leur stratégie marketing, que ce soit en automatisant des tâches répétitives, en personnalisant l'expérience client ou en analysant des données plus précises. Cependant, l'implémentation de l'IA dans une stratégie marketing soulève également des défis et des limites qu'il est important de prendre en compte.",
       "sidebar": "tutorialSidebar"
     },
+    "theme-mobilite/byod": {
+      "id": "theme-mobilite/byod",
+      "title": "Le BYOD",
+      "description": "Problématiques et contexte",
+      "sidebar": "tutorialSidebar"
+    },
     "theme-mobilite/generations": {
       "id": "theme-mobilite/generations",
       "title": "Les générations et la mobilité",
       "description": "Le concept de mobilité prend de multiples dimensions : mobilité physique (changement de lieu de travail), mobilité fonctionnelle (changement de fonction au sein de la même entreprise), mobilité géographique (mutation dans une autre région ou un autre pays), mobilité professionnelle (changement de profession ou d'entreprise) et même la mobilité digitale (travail à distance, nomadisme digital). La mobilité est devenue un élément crucial pour la croissance personnelle et professionnelle des employés, ainsi que pour la flexibilité et l'adaptabilité des organisations.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-mobilite/teletravail": {
+      "id": "theme-mobilite/teletravail",
+      "title": "Télétravail",
+      "description": "L'introduction du télétravail dans le monde de l'entreprise a provoqué une véritable révolution dans la manière dont le travail est organisé et réalisé. Ce concept, autrefois réservé à une petite frange de travailleurs, s'est généralisé de façon spectaculaire, notamment sous l'impulsion de l'avènement du numérique et de la mondialisation de l'économie. Il a gagné en visibilité et en importance avec la crise sanitaire du COVID-19, qui a contraint de nombreuses entreprises à adapter leurs modes de fonctionnement pour garantir la continuité de leur activité. Le télétravail offre de nombreux avantages, tels que la flexibilité du temps de travail, la réduction des coûts de transport et une meilleure conciliation entre la vie professionnelle et la vie privée.",
       "sidebar": "tutorialSidebar"
     }
   }
