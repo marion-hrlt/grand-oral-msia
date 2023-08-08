@@ -94,7 +94,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c9b'),
+    component: ComponentCreator('/docs', 'd8c'),
     routes: [
       {
         path: '/docs/category/intelligence-artificielle',
@@ -105,6 +105,12 @@ export default [
       {
         path: '/docs/category/mobilité',
         component: ComponentCreator('/docs/category/mobilité', 'd4a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/optimisation-du-si',
+        component: ComponentCreator('/docs/category/optimisation-du-si', 'a62'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -141,6 +147,12 @@ export default [
       {
         path: '/docs/theme-mobilite/teletravail',
         component: ComponentCreator('/docs/theme-mobilite/teletravail', '37f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-optimisation-si/veille-et-strategie',
+        component: ComponentCreator('/docs/theme-optimisation-si/veille-et-strategie', '1ab'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

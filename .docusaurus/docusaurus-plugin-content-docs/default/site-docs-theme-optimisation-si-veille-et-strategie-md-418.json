@@ -1,0 +1,22 @@
+{
+  "unversionedId": "theme-optimisation-si/veille-et-strategie",
+  "id": "theme-optimisation-si/veille-et-strategie",
+  "title": "Veille et stratégie d'entreprise",
+  "description": "À l'ère du numérique où l'information est devenue une ressource stratégique cruciale, le concept de veille informationnelle a pris une ampleur significative. Pour toute entreprise cherchant à améliorer ses performances et optimiser son Système d'Information (SI), il est devenu indispensable de mettre en place une veille efficace. Cette démarche permet non seulement de rester à jour sur les dernières tendances et innovations, mais également de prendre des décisions stratégiques éclairées basées sur des informations précises et actualisées.",
+  "source": "@site/docs/theme-optimisation-si/veille-et-strategie.md",
+  "sourceDirName": "theme-optimisation-si",
+  "slug": "/theme-optimisation-si/veille-et-strategie",
+  "permalink": "/docs/theme-optimisation-si/veille-et-strategie",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Optimisation du SI",
+    "permalink": "/docs/category/optimisation-du-si"
+  }
+}

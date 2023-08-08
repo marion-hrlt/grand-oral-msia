@@ -179,7 +179,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-c9b": {
+  "/docs-d8c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docse-60-356"
@@ -193,6 +193,10 @@
   "/docs/category/mobilité-d4a": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-mobilite-734-13b"
+  },
+  "/docs/category/optimisation-du-si-a62": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-optimisation-du-si-54-f-536"
   },
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -217,6 +221,10 @@
   "/docs/theme-mobilite/teletravail-37f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-theme-mobilite-teletravaila-54-b57"
+  },
+  "/docs/theme-optimisation-si/veille-et-strategie-1ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-optimisation-si-veille-et-strategie-418-ae1"
   },
   "/-de8": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

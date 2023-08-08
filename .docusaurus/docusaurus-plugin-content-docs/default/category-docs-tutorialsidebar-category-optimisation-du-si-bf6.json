@@ -1,0 +1,15 @@
+{
+  "title": "Optimisation du SI",
+  "slug": "/category/optimisation-du-si",
+  "permalink": "/docs/category/optimisation-du-si",
+  "navigation": {
+    "previous": {
+      "title": "IA et Marketing",
+      "permalink": "/docs/theme-ia/ia-marketing"
+    },
+    "next": {
+      "title": "Veille et stratégie d'entreprise",
+      "permalink": "/docs/theme-optimisation-si/veille-et-strategie"
+    }
+  }
+}

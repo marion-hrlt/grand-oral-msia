@@ -18,5 +18,9 @@
   "previous": {
     "title": "IA et Droit",
     "permalink": "/docs/theme-ia/ia-droit"
+  },
+  "next": {
+    "title": "Optimisation du SI",
+    "permalink": "/docs/category/optimisation-du-si"
   }
 }

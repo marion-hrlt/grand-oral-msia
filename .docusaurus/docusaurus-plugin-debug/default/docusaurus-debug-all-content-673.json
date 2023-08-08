@@ -85,13 +85,17 @@
               "previous": {
                 "title": "IA et Droit",
                 "permalink": "/docs/theme-ia/ia-droit"
+              },
+              "next": {
+                "title": "Optimisation du SI",
+                "permalink": "/docs/category/optimisation-du-si"
               }
             },
             {
               "unversionedId": "theme-mobilite/byod",
               "id": "theme-mobilite/byod",
               "title": "Le BYOD",
-              "description": "Problématiques et contexte",
+              "description": "Depuis le début du XXIe siècle, les progrès technologiques, notamment dans le domaine des technologies de l'information et des communications, ont bouleversé notre façon de vivre et de travailler. Les frontières entre le personnel et le professionnel commencent à s'estomper, donnant naissance à une ère où l'individualisme et la personnalisation sont rois. Dans ce contexte, la consumérisation de l’IT émerge comme une tendance majeure, marquant le déplacement du pouvoir d'achat et de décision technologique de l'entreprise vers l'employé. Les gens veulent désormais avoir le même niveau d'innovation, de confort et d'efficacité dans leurs outils professionnels que ce qu'ils connaissent dans leur vie privée. De ce phénomène découle le concept du BYOD (Bring Your Own Device), où les employés utilisent leurs appareils personnels à des fins professionnelles.",
               "source": "@site/docs/theme-mobilite/byod.md",
               "sourceDirName": "theme-mobilite",
               "slug": "/theme-mobilite/byod",
@@ -164,6 +168,28 @@
                 "title": "Les générations et la mobilité",
                 "permalink": "/docs/theme-mobilite/generations"
               }
+            },
+            {
+              "unversionedId": "theme-optimisation-si/veille-et-strategie",
+              "id": "theme-optimisation-si/veille-et-strategie",
+              "title": "Veille et stratégie d'entreprise",
+              "description": "À l'ère du numérique où l'information est devenue une ressource stratégique cruciale, le concept de veille informationnelle a pris une ampleur significative. Pour toute entreprise cherchant à améliorer ses performances et optimiser son Système d'Information (SI), il est devenu indispensable de mettre en place une veille efficace. Cette démarche permet non seulement de rester à jour sur les dernières tendances et innovations, mais également de prendre des décisions stratégiques éclairées basées sur des informations précises et actualisées.",
+              "source": "@site/docs/theme-optimisation-si/veille-et-strategie.md",
+              "sourceDirName": "theme-optimisation-si",
+              "slug": "/theme-optimisation-si/veille-et-strategie",
+              "permalink": "/docs/theme-optimisation-si/veille-et-strategie",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Optimisation du SI",
+                "permalink": "/docs/category/optimisation-du-si"
+              }
             }
           ],
           "drafts": [],
@@ -217,6 +243,23 @@
                   "type": "generated-index",
                   "slug": "/category/intelligence-artificielle",
                   "permalink": "/docs/category/intelligence-artificielle"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Optimisation du SI",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "theme-optimisation-si/veille-et-strategie"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/optimisation-du-si",
+                  "permalink": "/docs/category/optimisation-du-si"
                 }
               }
             ]

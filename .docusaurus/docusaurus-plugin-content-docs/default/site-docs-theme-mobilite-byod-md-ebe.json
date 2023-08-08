@@ -2,7 +2,7 @@
   "unversionedId": "theme-mobilite/byod",
   "id": "theme-mobilite/byod",
   "title": "Le BYOD",
-  "description": "Problématiques et contexte",
+  "description": "Depuis le début du XXIe siècle, les progrès technologiques, notamment dans le domaine des technologies de l'information et des communications, ont bouleversé notre façon de vivre et de travailler. Les frontières entre le personnel et le professionnel commencent à s'estomper, donnant naissance à une ère où l'individualisme et la personnalisation sont rois. Dans ce contexte, la consumérisation de l’IT émerge comme une tendance majeure, marquant le déplacement du pouvoir d'achat et de décision technologique de l'entreprise vers l'employé. Les gens veulent désormais avoir le même niveau d'innovation, de confort et d'efficacité dans leurs outils professionnels que ce qu'ils connaissent dans leur vie privée. De ce phénomène découle le concept du BYOD (Bring Your Own Device), où les employés utilisent leurs appareils personnels à des fins professionnelles.",
   "source": "@site/docs/theme-mobilite/byod.md",
   "sourceDirName": "theme-mobilite",
   "slug": "/theme-mobilite/byod",

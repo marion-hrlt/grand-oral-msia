@@ -62,6 +62,21 @@
           }
         ],
         "href": "/docs/category/intelligence-artificielle"
+      },
+      {
+        "type": "category",
+        "label": "Optimisation du SI",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Veille et stratégie d'entreprise",
+            "href": "/docs/theme-optimisation-si/veille-et-strategie",
+            "docId": "theme-optimisation-si/veille-et-strategie"
+          }
+        ],
+        "href": "/docs/category/optimisation-du-si"
       }
     ]
   },
@@ -87,7 +102,7 @@
     "theme-mobilite/byod": {
       "id": "theme-mobilite/byod",
       "title": "Le BYOD",
-      "description": "Problématiques et contexte",
+      "description": "Depuis le début du XXIe siècle, les progrès technologiques, notamment dans le domaine des technologies de l'information et des communications, ont bouleversé notre façon de vivre et de travailler. Les frontières entre le personnel et le professionnel commencent à s'estomper, donnant naissance à une ère où l'individualisme et la personnalisation sont rois. Dans ce contexte, la consumérisation de l’IT émerge comme une tendance majeure, marquant le déplacement du pouvoir d'achat et de décision technologique de l'entreprise vers l'employé. Les gens veulent désormais avoir le même niveau d'innovation, de confort et d'efficacité dans leurs outils professionnels que ce qu'ils connaissent dans leur vie privée. De ce phénomène découle le concept du BYOD (Bring Your Own Device), où les employés utilisent leurs appareils personnels à des fins professionnelles.",
       "sidebar": "tutorialSidebar"
     },
     "theme-mobilite/generations": {
@@ -100,6 +115,12 @@
       "id": "theme-mobilite/teletravail",
       "title": "Télétravail",
       "description": "L'introduction du télétravail dans le monde de l'entreprise a provoqué une véritable révolution dans la manière dont le travail est organisé et réalisé. Ce concept, autrefois réservé à une petite frange de travailleurs, s'est généralisé de façon spectaculaire, notamment sous l'impulsion de l'avènement du numérique et de la mondialisation de l'économie. Il a gagné en visibilité et en importance avec la crise sanitaire du COVID-19, qui a contraint de nombreuses entreprises à adapter leurs modes de fonctionnement pour garantir la continuité de leur activité. Le télétravail offre de nombreux avantages, tels que la flexibilité du temps de travail, la réduction des coûts de transport et une meilleure conciliation entre la vie professionnelle et la vie privée.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-optimisation-si/veille-et-strategie": {
+      "id": "theme-optimisation-si/veille-et-strategie",
+      "title": "Veille et stratégie d'entreprise",
+      "description": "À l'ère du numérique où l'information est devenue une ressource stratégique cruciale, le concept de veille informationnelle a pris une ampleur significative. Pour toute entreprise cherchant à améliorer ses performances et optimiser son Système d'Information (SI), il est devenu indispensable de mettre en place une veille efficace. Cette démarche permet non seulement de rester à jour sur les dernières tendances et innovations, mais également de prendre des décisions stratégiques éclairées basées sur des informations précises et actualisées.",
       "sidebar": "tutorialSidebar"
     }
   }

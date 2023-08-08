@@ -62,7 +62,7 @@ Liste des sujets du Grand Oral (2023)
   </div>
 
   <div class="card-intro">
-    <a href="/" class="card-link-intro">
+    <a href="/docs/category/optimisation-du-si" class="card-link-intro">
       <div class="card-content-intro">
         <h2>Optimisation du SI</h2>
         <p>Amélioration continue (+ Exemple d’amélioration continue), Industrie 4.0, PCA et PRA</p>
