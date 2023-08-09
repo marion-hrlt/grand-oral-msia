@@ -159,8 +159,6 @@ Ces entreprises illustrent comment l'adoption d'outils numériques adaptés à l
 
 ---
 
-**Communication au CODIR :**
-
 ## Conclusion
 
 À l'aube de cette ère numérique omniprésente, la mobilité en entreprise n'est plus simplement un avantage compétitif, mais une nécessité fondamentale. Les organisations qui adoptent proactivement des outils numériques pour soutenir et renforcer leurs stratégies de mobilité positionnent non seulement leur entreprise pour une efficacité opérationnelle maximale, mais également pour une pertinence et une résilience à long terme dans un marché en évolution constante.
