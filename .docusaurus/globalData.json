@@ -36,6 +36,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "theme-mobilite/outils-mobilite",
+              "path": "/docs/theme-mobilite/outils-mobilite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "theme-mobilite/teletravail",
               "path": "/docs/theme-mobilite/teletravail",
               "sidebar": "tutorialSidebar"

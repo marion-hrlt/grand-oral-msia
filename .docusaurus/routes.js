@@ -94,7 +94,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd8c'),
+    component: ComponentCreator('/docs', '7c1'),
     routes: [
       {
         path: '/docs/category/intelligence-artificielle',
@@ -141,6 +141,12 @@ export default [
       {
         path: '/docs/theme-mobilite/generations',
         component: ComponentCreator('/docs/theme-mobilite/generations', 'a17'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-mobilite/outils-mobilite',
+        component: ComponentCreator('/docs/theme-mobilite/outils-mobilite', 'daa'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

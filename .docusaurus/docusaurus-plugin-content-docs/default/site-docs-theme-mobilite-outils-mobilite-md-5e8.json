@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-mobilite/outils-mobilite",
+  "id": "theme-mobilite/outils-mobilite",
+  "title": "Les outils numériques et la mobilité",
+  "description": "L'ère numérique actuelle a bouleversé la manière dont les entreprises opèrent, interagissent et se développent. Au cœur de cette révolution numérique se trouve la notion de mobilité, qui a changé la définition traditionnelle du lieu de travail. Aujourd'hui, les espaces de travail ne sont plus simplement définis par des murs physiques, mais peuvent s'étendre bien au-delà, du café du coin à un aéroport à l'autre bout du monde. Cette transformation n'a été possible que grâce à la prolifération et à l'adoption rapide d'outils numériques conçus pour soutenir, faciliter et optimiser le travail en dehors d'un cadre traditionnel. Ces outils, allant des applications de communication aux plateformes de collaboration en passant par les solutions de stockage cloud, ont non seulement rendu le travail à distance possible, mais aussi efficace et productif. Mais qu'est-ce que cela signifie réellement pour les entreprises d'aujourd'hui ? Comment ces outils transforment-ils le paysage professionnel, et quelles opportunités et défis présentent-ils ? Dans cette présentation, nous explorerons les implications profondes des outils numériques pour la mobilité en entreprise, tout en dévoilant leur potentiel à façonner l'avenir du travail.",
+  "source": "@site/docs/theme-mobilite/outils-mobilite.md",
+  "sourceDirName": "theme-mobilite",
+  "slug": "/theme-mobilite/outils-mobilite",
+  "permalink": "/docs/theme-mobilite/outils-mobilite",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Les générations et la mobilité",
+    "permalink": "/docs/theme-mobilite/generations"
+  },
+  "next": {
+    "title": "Intelligence artificielle",
+    "permalink": "/docs/category/intelligence-artificielle"
+  }
+}
