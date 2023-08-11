@@ -94,7 +94,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7c1'),
+    component: ComponentCreator('/docs', '891'),
     routes: [
       {
         path: '/docs/category/intelligence-artificielle',
@@ -127,8 +127,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/theme-ia/ia-ethique',
+        component: ComponentCreator('/docs/theme-ia/ia-ethique', 'fad'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/theme-ia/ia-marketing',
         component: ComponentCreator('/docs/theme-ia/ia-marketing', '29b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-ia/ia-securite',
+        component: ComponentCreator('/docs/theme-ia/ia-securite', '2dc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

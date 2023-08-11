@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-ia/ia-securite",
+  "id": "theme-ia/ia-securite",
+  "title": "IA et Sécurité",
+  "description": "À une époque où la technologie façonne chaque aspect de nos vies, l'Intelligence Artificielle (IA) s'est imposée comme une force incontournable, modifiant radicalement notre manière de penser, de travailler et d'interagir. Elle touche à tout, de la simple recommandation de chansons sur une application de musique à la conduite autonome des véhicules. Toutefois, en tant que chef de projet dans une entreprise moderne, il est crucial de reconnaître qu'avec cette puissance innovante de l'IA vient également une nouvelle gamme de défis, en particulier en matière de sécurité. Ainsi, alors que l'IA offre des possibilités presque illimitées pour améliorer la productivité, la précision et l'innovation, il est fondamental d'aborder ses capacités avec prudence et conscience. Cette présentation vise à déchiffrer le lien complexe entre l'IA et la sécurité, en explorant les problèmes, les enjeux, les bénéfices et les précautions nécessaires pour naviguer avec succès dans cet écosystème dynamique.",
+  "source": "@site/docs/theme-ia/ia-securite.md",
+  "sourceDirName": "theme-ia",
+  "slug": "/theme-ia/ia-securite",
+  "permalink": "/docs/theme-ia/ia-securite",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IA et Ethique",
+    "permalink": "/docs/theme-ia/ia-ethique"
+  },
+  "next": {
+    "title": "Optimisation du SI",
+    "permalink": "/docs/category/optimisation-du-si"
+  }
+}

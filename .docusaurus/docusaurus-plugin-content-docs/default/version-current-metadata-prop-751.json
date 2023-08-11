@@ -65,6 +65,18 @@
             "label": "IA et Marketing",
             "href": "/docs/theme-ia/ia-marketing",
             "docId": "theme-ia/ia-marketing"
+          },
+          {
+            "type": "link",
+            "label": "IA et Ethique",
+            "href": "/docs/theme-ia/ia-ethique",
+            "docId": "theme-ia/ia-ethique"
+          },
+          {
+            "type": "link",
+            "label": "IA et Sécurité",
+            "href": "/docs/theme-ia/ia-securite",
+            "docId": "theme-ia/ia-securite"
           }
         ],
         "href": "/docs/category/intelligence-artificielle"
@@ -99,10 +111,22 @@
       "description": "Intelligence artificielle (IA) est une technologie en constante évolution et de plus en plus d'entreprises l'utilisent pour améliorer leurs opérations, leur efficacité et leurs résultats. Cependant, l'utilisation de l'IA soulève des questions juridiques et éthiques importantes. Les entreprises doivent être conscientes des lois et des réglementations en matière d'IA et s'assurer que leurs pratiques sont conformes à ces règles.",
       "sidebar": "tutorialSidebar"
     },
+    "theme-ia/ia-ethique": {
+      "id": "theme-ia/ia-ethique",
+      "title": "IA et Ethique",
+      "description": "Dans un monde de plus en plus interconnecté, où le rythme incessant des innovations technologiques dicte le tempo des entreprises, l'Intelligence Artificielle (IA) émerge comme l'une des avancées les plus révolutionnaires de notre époque. Elle promet d'augmenter l'efficacité opérationnelle, d'ouvrir la voie à de nouveaux services et de créer des opportunités de marché inédites. Pourtant, à l'ombre de ces promesses lumineuses se cachent des zones d'ombre, des questions profondément ancrées dans l'éthique, qui s'entremêlent avec les implications technologiques, sociétales et économiques de l'IA. Comment l'IA affecte-t-elle notre vie privée ? Est-elle toujours juste et non discriminatoire dans ses décisions ? Et quel est le rôle des entreprises dans cette équation complexe ? En tant que chef de projet, comprendre ces nuances, ces préoccupations éthiques, n'est pas seulement une responsabilité, mais une nécessité pour garantir une intégration harmonieuse et responsable de l'IA au sein de l'entreprise. Ce voyage au cœur de l'IA et de l'éthique vise à démystifier ces questions, à mettre en lumière les défis et à esquisser des solutions pour un futur où la technologie et l'humanité coexistent en synergie.",
+      "sidebar": "tutorialSidebar"
+    },
     "theme-ia/ia-marketing": {
       "id": "theme-ia/ia-marketing",
       "title": "IA et Marketing",
       "description": "Dans un monde où la concurrence est de plus en plus forte, la mise en place d'une stratégie marketing efficace est devenue un enjeu primordial pour les entreprises de toutes tailles. C'est dans ce contexte que l'intelligence artificielle (IA) fait son entrée dans le monde du marketing. En effet, l'IA offre de nombreux avantages pour les entreprises qui souhaitent améliorer leur stratégie marketing, que ce soit en automatisant des tâches répétitives, en personnalisant l'expérience client ou en analysant des données plus précises. Cependant, l'implémentation de l'IA dans une stratégie marketing soulève également des défis et des limites qu'il est important de prendre en compte.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-ia/ia-securite": {
+      "id": "theme-ia/ia-securite",
+      "title": "IA et Sécurité",
+      "description": "À une époque où la technologie façonne chaque aspect de nos vies, l'Intelligence Artificielle (IA) s'est imposée comme une force incontournable, modifiant radicalement notre manière de penser, de travailler et d'interagir. Elle touche à tout, de la simple recommandation de chansons sur une application de musique à la conduite autonome des véhicules. Toutefois, en tant que chef de projet dans une entreprise moderne, il est crucial de reconnaître qu'avec cette puissance innovante de l'IA vient également une nouvelle gamme de défis, en particulier en matière de sécurité. Ainsi, alors que l'IA offre des possibilités presque illimitées pour améliorer la productivité, la précision et l'innovation, il est fondamental d'aborder ses capacités avec prudence et conscience. Cette présentation vise à déchiffrer le lien complexe entre l'IA et la sécurité, en explorant les problèmes, les enjeux, les bénéfices et les précautions nécessaires pour naviguer avec succès dans cet écosystème dynamique.",
       "sidebar": "tutorialSidebar"
     },
     "theme-mobilite/byod": {

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-ia/ia-ethique",
+  "id": "theme-ia/ia-ethique",
+  "title": "IA et Ethique",
+  "description": "Dans un monde de plus en plus interconnecté, où le rythme incessant des innovations technologiques dicte le tempo des entreprises, l'Intelligence Artificielle (IA) émerge comme l'une des avancées les plus révolutionnaires de notre époque. Elle promet d'augmenter l'efficacité opérationnelle, d'ouvrir la voie à de nouveaux services et de créer des opportunités de marché inédites. Pourtant, à l'ombre de ces promesses lumineuses se cachent des zones d'ombre, des questions profondément ancrées dans l'éthique, qui s'entremêlent avec les implications technologiques, sociétales et économiques de l'IA. Comment l'IA affecte-t-elle notre vie privée ? Est-elle toujours juste et non discriminatoire dans ses décisions ? Et quel est le rôle des entreprises dans cette équation complexe ? En tant que chef de projet, comprendre ces nuances, ces préoccupations éthiques, n'est pas seulement une responsabilité, mais une nécessité pour garantir une intégration harmonieuse et responsable de l'IA au sein de l'entreprise. Ce voyage au cœur de l'IA et de l'éthique vise à démystifier ces questions, à mettre en lumière les défis et à esquisser des solutions pour un futur où la technologie et l'humanité coexistent en synergie.",
+  "source": "@site/docs/theme-ia/ia-ethique.md",
+  "sourceDirName": "theme-ia",
+  "slug": "/theme-ia/ia-ethique",
+  "permalink": "/docs/theme-ia/ia-ethique",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IA et Marketing",
+    "permalink": "/docs/theme-ia/ia-marketing"
+  },
+  "next": {
+    "title": "IA et Sécurité",
+    "permalink": "/docs/theme-ia/ia-securite"
+  }
+}

@@ -71,3 +71,35 @@ Liste des sujets du Grand Oral (2023)
   </div>
 
 </div>
+
+## MODELE
+
+## sidebar_position: 3
+
+# IA et Ethique
+
+---
+
+## Problématiques et contexte
+
+### Problématiques potentielles
+
+### Définitions
+
+### Contexte
+
+## Enjeux et objectifs
+
+### Enjeux
+
+### Objectifs
+
+### Avantages
+
+## Benchmark
+
+## Préconisations
+
+### Problématique 1
+
+## Conclusion

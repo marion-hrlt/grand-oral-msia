@@ -21,8 +21,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "theme-ia/ia-ethique",
+              "path": "/docs/theme-ia/ia-ethique",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "theme-ia/ia-marketing",
               "path": "/docs/theme-ia/ia-marketing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-ia/ia-securite",
+              "path": "/docs/theme-ia/ia-securite",
               "sidebar": "tutorialSidebar"
             },
             {
