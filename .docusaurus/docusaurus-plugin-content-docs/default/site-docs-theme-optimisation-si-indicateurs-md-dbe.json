@@ -1,0 +1,22 @@
+{
+  "unversionedId": "theme-optimisation-si/indicateurs",
+  "id": "theme-optimisation-si/indicateurs",
+  "title": "Indicateurs",
+  "description": "Quels sont les indicateurs les plus pertinents pour gérer au mieux un projet informatique dans une entreprise 4.0 ?",
+  "source": "@site/docs/theme-optimisation-si/indicateurs.md",
+  "sourceDirName": "theme-optimisation-si",
+  "slug": "/theme-optimisation-si/indicateurs",
+  "permalink": "/docs/theme-optimisation-si/indicateurs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amélioration continue",
+    "permalink": "/docs/theme-optimisation-si/amelioration-continue"
+  }
+}

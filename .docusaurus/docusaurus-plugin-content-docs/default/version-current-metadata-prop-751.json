@@ -92,6 +92,18 @@
             "label": "Veille et stratégie d'entreprise",
             "href": "/docs/theme-optimisation-si/veille-et-strategie",
             "docId": "theme-optimisation-si/veille-et-strategie"
+          },
+          {
+            "type": "link",
+            "label": "Amélioration continue",
+            "href": "/docs/theme-optimisation-si/amelioration-continue",
+            "docId": "theme-optimisation-si/amelioration-continue"
+          },
+          {
+            "type": "link",
+            "label": "Indicateurs",
+            "href": "/docs/theme-optimisation-si/indicateurs",
+            "docId": "theme-optimisation-si/indicateurs"
           }
         ],
         "href": "/docs/category/optimisation-du-si"
@@ -153,10 +165,22 @@
       "description": "L'introduction du télétravail dans le monde de l'entreprise a provoqué une véritable révolution dans la manière dont le travail est organisé et réalisé. Ce concept, autrefois réservé à une petite frange de travailleurs, s'est généralisé de façon spectaculaire, notamment sous l'impulsion de l'avènement du numérique et de la mondialisation de l'économie. Il a gagné en visibilité et en importance avec la crise sanitaire du COVID-19, qui a contraint de nombreuses entreprises à adapter leurs modes de fonctionnement pour garantir la continuité de leur activité. Le télétravail offre de nombreux avantages, tels que la flexibilité du temps de travail, la réduction des coûts de transport et une meilleure conciliation entre la vie professionnelle et la vie privée.",
       "sidebar": "tutorialSidebar"
     },
+    "theme-optimisation-si/amelioration-continue": {
+      "id": "theme-optimisation-si/amelioration-continue",
+      "title": "Amélioration continue",
+      "description": "Quelles démarches adopter pour assurer l'amélioration continue des services ?",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-optimisation-si/indicateurs": {
+      "id": "theme-optimisation-si/indicateurs",
+      "title": "Indicateurs",
+      "description": "Quels sont les indicateurs les plus pertinents pour gérer au mieux un projet informatique dans une entreprise 4.0 ?",
+      "sidebar": "tutorialSidebar"
+    },
     "theme-optimisation-si/veille-et-strategie": {
       "id": "theme-optimisation-si/veille-et-strategie",
       "title": "Veille et stratégie d'entreprise",
-      "description": "À l'ère du numérique où l'information est devenue une ressource stratégique cruciale, le concept de veille informationnelle a pris une ampleur significative. Pour toute entreprise cherchant à améliorer ses performances et optimiser son Système d'Information (SI), il est devenu indispensable de mettre en place une veille efficace. Cette démarche permet non seulement de rester à jour sur les dernières tendances et innovations, mais également de prendre des décisions stratégiques éclairées basées sur des informations précises et actualisées.",
+      "description": "Dans un univers économique où le rythme effréné des innovations technologiques s'allie à une concurrence mondialisée, être informé est devenu une nécessité vitale pour toute entreprise. Cette réalité, exacerbée par la digitalisation des marchés et la mutation des habitudes des consommateurs, requiert une adaptation continue et une anticipation stratégique. C'est dans ce contexte que la veille se présente comme une boussole, guidant les entreprises à travers les mers incertaines du marché. Elle permet non seulement d'obtenir un avantage compétitif, mais aussi de prévoir, d'ajuster et d'orienter sa stratégie face à un avenir imprévisible. La question se pose alors : comment instaurer une veille efficace qui répond aux besoins spécifiques de l'entreprise et l'aide à naviguer avec assurance ? Cette présentation vise à décortiquer ce processus, en fournissant un aperçu approfondi et des recommandations pratiques pour la mise en œuvre d'une veille stratégique performante.",
       "sidebar": "tutorialSidebar"
     }
   }

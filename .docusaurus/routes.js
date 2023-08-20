@@ -94,7 +94,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '891'),
+    component: ComponentCreator('/docs', '417'),
     routes: [
       {
         path: '/docs/category/intelligence-artificielle',
@@ -165,6 +165,18 @@ export default [
       {
         path: '/docs/theme-mobilite/teletravail',
         component: ComponentCreator('/docs/theme-mobilite/teletravail', '37f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-optimisation-si/amelioration-continue',
+        component: ComponentCreator('/docs/theme-optimisation-si/amelioration-continue', '72f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-optimisation-si/indicateurs',
+        component: ComponentCreator('/docs/theme-optimisation-si/indicateurs', '5b3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

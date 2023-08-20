@@ -179,7 +179,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-891": {
+  "/docs-417": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docse-60-356"
@@ -233,6 +233,14 @@
   "/docs/theme-mobilite/teletravail-37f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-theme-mobilite-teletravaila-54-b57"
+  },
+  "/docs/theme-optimisation-si/amelioration-continue-72f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-optimisation-si-amelioration-continuee-7-b-1f8"
+  },
+  "/docs/theme-optimisation-si/indicateurs-5b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-optimisation-si-indicateursdbe-c3e"
   },
   "/docs/theme-optimisation-si/veille-et-strategie-1ab": {
     "__comp": "__comp---theme-doc-item-178-a40",

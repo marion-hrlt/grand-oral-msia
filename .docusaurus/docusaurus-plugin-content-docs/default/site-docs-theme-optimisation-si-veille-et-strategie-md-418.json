@@ -2,7 +2,7 @@
   "unversionedId": "theme-optimisation-si/veille-et-strategie",
   "id": "theme-optimisation-si/veille-et-strategie",
   "title": "Veille et stratégie d'entreprise",
-  "description": "À l'ère du numérique où l'information est devenue une ressource stratégique cruciale, le concept de veille informationnelle a pris une ampleur significative. Pour toute entreprise cherchant à améliorer ses performances et optimiser son Système d'Information (SI), il est devenu indispensable de mettre en place une veille efficace. Cette démarche permet non seulement de rester à jour sur les dernières tendances et innovations, mais également de prendre des décisions stratégiques éclairées basées sur des informations précises et actualisées.",
+  "description": "Dans un univers économique où le rythme effréné des innovations technologiques s'allie à une concurrence mondialisée, être informé est devenu une nécessité vitale pour toute entreprise. Cette réalité, exacerbée par la digitalisation des marchés et la mutation des habitudes des consommateurs, requiert une adaptation continue et une anticipation stratégique. C'est dans ce contexte que la veille se présente comme une boussole, guidant les entreprises à travers les mers incertaines du marché. Elle permet non seulement d'obtenir un avantage compétitif, mais aussi de prévoir, d'ajuster et d'orienter sa stratégie face à un avenir imprévisible. La question se pose alors : comment instaurer une veille efficace qui répond aux besoins spécifiques de l'entreprise et l'aide à naviguer avec assurance ? Cette présentation vise à décortiquer ce processus, en fournissant un aperçu approfondi et des recommandations pratiques pour la mise en œuvre d'une veille stratégique performante.",
   "source": "@site/docs/theme-optimisation-si/veille-et-strategie.md",
   "sourceDirName": "theme-optimisation-si",
   "slug": "/theme-optimisation-si/veille-et-strategie",
@@ -18,5 +18,9 @@
   "previous": {
     "title": "Optimisation du SI",
     "permalink": "/docs/category/optimisation-du-si"
+  },
+  "next": {
+    "title": "Amélioration continue",
+    "permalink": "/docs/theme-optimisation-si/amelioration-continue"
   }
 }

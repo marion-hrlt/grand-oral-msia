@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-optimisation-si/amelioration-continue",
+  "id": "theme-optimisation-si/amelioration-continue",
+  "title": "Amélioration continue",
+  "description": "Quelles démarches adopter pour assurer l'amélioration continue des services ?",
+  "source": "@site/docs/theme-optimisation-si/amelioration-continue.md",
+  "sourceDirName": "theme-optimisation-si",
+  "slug": "/theme-optimisation-si/amelioration-continue",
+  "permalink": "/docs/theme-optimisation-si/amelioration-continue",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Veille et stratégie d'entreprise",
+    "permalink": "/docs/theme-optimisation-si/veille-et-strategie"
+  },
+  "next": {
+    "title": "Indicateurs",
+    "permalink": "/docs/theme-optimisation-si/indicateurs"
+  }
+}
