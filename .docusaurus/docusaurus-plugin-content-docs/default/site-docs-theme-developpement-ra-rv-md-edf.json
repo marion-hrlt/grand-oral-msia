@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-developpement/ra-rv",
+  "id": "theme-developpement/ra-rv",
+  "title": "Quels sont les enjeux et le positionnement de la RA/RV pour l’entreprise 4.0 ?",
+  "description": "Au seuil d'une ère dominée par la digitalisation et l'intégration technologique, l'entreprise moderne fait face à des défis et des opportunités sans précédent. Au centre de cette révolution, la Réalité Augmentée (RA) et la Réalité Virtuelle (RV) émergent non seulement comme de simples outils technologiques, mais aussi comme des catalyseurs fondamentaux pour transformer l'ADN même des organisations. Ces technologies, bien que différentes dans leur mise en œuvre, partagent un objectif commun : fusionner le monde numérique avec le monde physique pour offrir des expériences immersives et interactives. Pour l'entreprise 4.0, qui s'efforce de tirer parti de la data, de la connectivité, et des systèmes intelligents pour optimiser ses opérations, la RA et la RV présentent des opportunités tangibles d'améliorer l'efficacité, de stimuler l'innovation et d'engager les clients comme jamais auparavant. Cette introduction se propose de plonger dans l'univers de ces technologies disruptives, d'explorer leurs implications pour les entreprises d'aujourd'hui et de définir comment elles peuvent être intégrées stratégiquement pour modeler l'avenir.",
+  "source": "@site/docs/theme-developpement/ra-rv.md",
+  "sourceDirName": "theme-developpement",
+  "slug": "/theme-developpement/ra-rv",
+  "permalink": "/docs/theme-developpement/ra-rv",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "En quoi le DevOps peut améliorer la qualité de votre S.I. et la productivité de vos équipes IT ?",
+    "permalink": "/docs/theme-developpement/devops"
+  },
+  "next": {
+    "title": "Mobilité",
+    "permalink": "/docs/category/mobilité"
+  }
+}

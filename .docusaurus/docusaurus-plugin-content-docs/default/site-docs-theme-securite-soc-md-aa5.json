@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-securite/soc",
+  "id": "theme-securite/soc",
+  "title": "Sous traiter le SOC, la solution des structures de taille moyenne",
+  "description": "1. L'évolution du paysage numérique :",
+  "source": "@site/docs/theme-securite/soc.md",
+  "sourceDirName": "theme-securite",
+  "slug": "/theme-securite/soc",
+  "permalink": "/docs/theme-securite/soc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sécurité",
+    "permalink": "/docs/category/sécurité"
+  },
+  "next": {
+    "title": "Cybersécurité, l'humain reste la clé du problème",
+    "permalink": "/docs/theme-securite/securite-facteur-humain"
+  }
+}

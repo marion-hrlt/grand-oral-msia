@@ -17,6 +17,27 @@
       },
       {
         "type": "category",
+        "label": "Sécurité",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Sous traiter le SOC, la solution des structures de taille moyenne",
+            "href": "/docs/theme-securite/soc",
+            "docId": "theme-securite/soc"
+          },
+          {
+            "type": "link",
+            "label": "Cybersécurité, l'humain reste la clé du problème",
+            "href": "/docs/theme-securite/securite-facteur-humain",
+            "docId": "theme-securite/securite-facteur-humain"
+          }
+        ],
+        "href": "/docs/category/sécurité"
+      },
+      {
+        "type": "category",
         "label": "Big Data",
         "collapsible": true,
         "collapsed": true,
@@ -41,6 +62,39 @@
           }
         ],
         "href": "/docs/category/big-data"
+      },
+      {
+        "type": "category",
+        "label": "Développement",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Apprentissage automatique et automatisation de tests de logiciels",
+            "href": "/docs/theme-developpement/automatisation",
+            "docId": "theme-developpement/automatisation"
+          },
+          {
+            "type": "link",
+            "label": "Stratégie de maintenabilité logicielle et les couts associés ?",
+            "href": "/docs/theme-developpement/maintenance",
+            "docId": "theme-developpement/maintenance"
+          },
+          {
+            "type": "link",
+            "label": "En quoi le DevOps peut améliorer la qualité de votre S.I. et la productivité de vos équipes IT ?",
+            "href": "/docs/theme-developpement/devops",
+            "docId": "theme-developpement/devops"
+          },
+          {
+            "type": "link",
+            "label": "Quels sont les enjeux et le positionnement de la RA/RV pour l’entreprise 4.0 ?",
+            "href": "/docs/theme-developpement/ra-rv",
+            "docId": "theme-developpement/ra-rv"
+          }
+        ],
+        "href": "/docs/category/développement"
       },
       {
         "type": "category",
@@ -207,6 +261,30 @@
       "description": "Dans un monde toujours plus connecté et numérisé, nous sommes submergés de données provenant de sources variées, que ce soit nos smartphones, nos voitures, nos appareils ménagers ou même les sites web que nous visitons. Cette explosion d'informations, souvent appelée \"Big Data\", est comme une nouvelle forme de pétrole brut pour le 21e siècle. Toutefois, tout comme le pétrole brut, ces données, dans leur forme brute, ont peu de valeur. C'est là qu'intervient le \"Data Analytics\". Il représente le processus de raffinage, transformant cette matière première en produits précieux. Pour les entreprises, ces \"produits\" se traduisent par des informations exploitables, des tendances, des prévisions et des stratégies basées sur des données. Ces précieuses gouttes d'informations, une fois correctement extraites, peuvent entraîner une croissance substantielle, une amélioration de l'efficacité et un avantage concurrentiel. Ainsi, comment le Data Analytics, en tant que mécanisme transformateur, donne-t-il vie et valeur à cet océan de données et pourquoi est-il crucial pour les entreprises de l'intégrer dans leur stratégie globale?",
       "sidebar": "tutorialSidebar"
     },
+    "theme-developpement/automatisation": {
+      "id": "theme-developpement/automatisation",
+      "title": "Apprentissage automatique et automatisation de tests de logiciels",
+      "description": "À l'aube de la quatrième révolution industrielle, l'ère numérique transforme radicalement nos modes de vie, de travail et d'interaction. Au cœur de cette transformation se trouve le logiciel, qui alimente tout, des applications mobiles que nous utilisons quotidiennement aux systèmes critiques qui soutiennent les infrastructures mondiales. À mesure que notre dépendance à l'égard des logiciels augmente, la nécessité d'assurer leur qualité et leur fiabilité devient impérative. Dans ce contexte, l'apprentissage automatique et l'automatisation des tests sont non seulement opportuns, mais essentiels.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-developpement/devops": {
+      "id": "theme-developpement/devops",
+      "title": "En quoi le DevOps peut améliorer la qualité de votre S.I. et la productivité de vos équipes IT ?",
+      "description": "À l'ère du numérique, l'agilité et la rapidité sont devenues des maîtres mots pour les entreprises souhaitant maintenir leur pertinence et leur avantage concurrentiel. Dans ce contexte, les services informatiques sont plus que jamais sous pression pour livrer rapidement des solutions innovantes tout en garantissant la stabilité et la sécurité des systèmes. Cependant, avec les méthodologies traditionnelles de développement et d'exploitation, cette aspiration semble parfois irréalisable, créant une tension entre la nécessité d'innover et celle d'assurer un service ininterrompu. C'est dans ce paysage complexe que le DevOps fait son entrée, offrant une promesse de synergie entre développement et opérations, et catalysant ainsi l'efficacité et la qualité. Dans cette présentation, nous plongerons dans l'univers du DevOps pour comprendre son potentiel transformateur, en explorant comment cette approche peut non seulement améliorer la qualité de votre Système d'Information (S.I.) mais également booster la productivité de vos équipes IT.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-developpement/maintenance": {
+      "id": "theme-developpement/maintenance",
+      "title": "Stratégie de maintenabilité logicielle et les couts associés ?",
+      "description": "1. L'omniprésence technologique: Aujourd'hui, nous vivons dans un monde où le numérique est omniprésent. De la finance à la santé, en passant par le commerce et l'éducation, chaque secteur s'appuie sur des logiciels pour améliorer ses opérations, sa performance et son interaction avec les utilisateurs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-developpement/ra-rv": {
+      "id": "theme-developpement/ra-rv",
+      "title": "Quels sont les enjeux et le positionnement de la RA/RV pour l’entreprise 4.0 ?",
+      "description": "Au seuil d'une ère dominée par la digitalisation et l'intégration technologique, l'entreprise moderne fait face à des défis et des opportunités sans précédent. Au centre de cette révolution, la Réalité Augmentée (RA) et la Réalité Virtuelle (RV) émergent non seulement comme de simples outils technologiques, mais aussi comme des catalyseurs fondamentaux pour transformer l'ADN même des organisations. Ces technologies, bien que différentes dans leur mise en œuvre, partagent un objectif commun : fusionner le monde numérique avec le monde physique pour offrir des expériences immersives et interactives. Pour l'entreprise 4.0, qui s'efforce de tirer parti de la data, de la connectivité, et des systèmes intelligents pour optimiser ses opérations, la RA et la RV présentent des opportunités tangibles d'améliorer l'efficacité, de stimuler l'innovation et d'engager les clients comme jamais auparavant. Cette introduction se propose de plonger dans l'univers de ces technologies disruptives, d'explorer leurs implications pour les entreprises d'aujourd'hui et de définir comment elles peuvent être intégrées stratégiquement pour modeler l'avenir.",
+      "sidebar": "tutorialSidebar"
+    },
     "theme-ia/ia-droit": {
       "id": "theme-ia/ia-droit",
       "title": "IA et Droit",
@@ -307,6 +385,18 @@
       "id": "theme-optimisation-si/veille-et-strategie",
       "title": "Veille et stratégie d'entreprise",
       "description": "Dans un univers économique où le rythme effréné des innovations technologiques s'allie à une concurrence mondialisée, être informé est devenu une nécessité vitale pour toute entreprise. Cette réalité, exacerbée par la digitalisation des marchés et la mutation des habitudes des consommateurs, requiert une adaptation continue et une anticipation stratégique. C'est dans ce contexte que la veille se présente comme une boussole, guidant les entreprises à travers les mers incertaines du marché. Elle permet non seulement d'obtenir un avantage compétitif, mais aussi de prévoir, d'ajuster et d'orienter sa stratégie face à un avenir imprévisible. La question se pose alors : comment instaurer une veille efficace qui répond aux besoins spécifiques de l'entreprise et l'aide à naviguer avec assurance ? Cette présentation vise à décortiquer ce processus, en fournissant un aperçu approfondi et des recommandations pratiques pour la mise en œuvre d'une veille stratégique performante.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-securite/securite-facteur-humain": {
+      "id": "theme-securite/securite-facteur-humain",
+      "title": "Cybersécurité, l'humain reste la clé du problème",
+      "description": "Dans l'univers numérique en perpétuelle évolution dans lequel nous vivons, les entreprises investissent massivement dans la technologie pour sécuriser leurs infrastructures et protéger leurs données sensibles. Si ces mesures technologiques sont indispensables, elles ne représentent qu'une partie de la solution. La sécurité n'est pas uniquement une question de serveurs blindés, de pare-feu impénétrables et de systèmes de détection d'intrusion sophistiqués ; elle est tout autant, sinon plus, une question d'humains.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-securite/soc": {
+      "id": "theme-securite/soc",
+      "title": "Sous traiter le SOC, la solution des structures de taille moyenne",
+      "description": "1. L'évolution du paysage numérique :",
       "sidebar": "tutorialSidebar"
     }
   }

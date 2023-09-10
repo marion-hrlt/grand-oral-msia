@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-developpement/devops",
+  "id": "theme-developpement/devops",
+  "title": "En quoi le DevOps peut améliorer la qualité de votre S.I. et la productivité de vos équipes IT ?",
+  "description": "À l'ère du numérique, l'agilité et la rapidité sont devenues des maîtres mots pour les entreprises souhaitant maintenir leur pertinence et leur avantage concurrentiel. Dans ce contexte, les services informatiques sont plus que jamais sous pression pour livrer rapidement des solutions innovantes tout en garantissant la stabilité et la sécurité des systèmes. Cependant, avec les méthodologies traditionnelles de développement et d'exploitation, cette aspiration semble parfois irréalisable, créant une tension entre la nécessité d'innover et celle d'assurer un service ininterrompu. C'est dans ce paysage complexe que le DevOps fait son entrée, offrant une promesse de synergie entre développement et opérations, et catalysant ainsi l'efficacité et la qualité. Dans cette présentation, nous plongerons dans l'univers du DevOps pour comprendre son potentiel transformateur, en explorant comment cette approche peut non seulement améliorer la qualité de votre Système d'Information (S.I.) mais également booster la productivité de vos équipes IT.",
+  "source": "@site/docs/theme-developpement/devops.md",
+  "sourceDirName": "theme-developpement",
+  "slug": "/theme-developpement/devops",
+  "permalink": "/docs/theme-developpement/devops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stratégie de maintenabilité logicielle et les couts associés ?",
+    "permalink": "/docs/theme-developpement/maintenance"
+  },
+  "next": {
+    "title": "Quels sont les enjeux et le positionnement de la RA/RV pour l’entreprise 4.0 ?",
+    "permalink": "/docs/theme-developpement/ra-rv"
+  }
+}

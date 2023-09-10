@@ -31,6 +31,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "theme-developpement/automatisation",
+              "path": "/docs/theme-developpement/automatisation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-developpement/devops",
+              "path": "/docs/theme-developpement/devops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-developpement/maintenance",
+              "path": "/docs/theme-developpement/maintenance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-developpement/ra-rv",
+              "path": "/docs/theme-developpement/ra-rv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "theme-ia/ia-droit",
               "path": "/docs/theme-ia/ia-droit",
               "sidebar": "tutorialSidebar"
@@ -116,8 +136,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "theme-securite/securite-facteur-humain",
+              "path": "/docs/theme-securite/securite-facteur-humain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-securite/soc",
+              "path": "/docs/theme-securite/soc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/sécurité",
+              "path": "/docs/category/sécurité",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/big-data",
               "path": "/docs/category/big-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/développement",
+              "path": "/docs/category/développement",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,15 @@
+{
+  "title": "Développement",
+  "slug": "/category/développement",
+  "permalink": "/docs/category/développement",
+  "navigation": {
+    "previous": {
+      "title": "Data Analytics ou comment donner de la valeur aux données..",
+      "permalink": "/docs/theme-big-data/big-data-valeur"
+    },
+    "next": {
+      "title": "Apprentissage automatique et automatisation de tests de logiciels",
+      "permalink": "/docs/theme-developpement/automatisation"
+    }
+  }
+}

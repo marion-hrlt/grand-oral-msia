@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-developpement/automatisation",
+  "id": "theme-developpement/automatisation",
+  "title": "Apprentissage automatique et automatisation de tests de logiciels",
+  "description": "À l'aube de la quatrième révolution industrielle, l'ère numérique transforme radicalement nos modes de vie, de travail et d'interaction. Au cœur de cette transformation se trouve le logiciel, qui alimente tout, des applications mobiles que nous utilisons quotidiennement aux systèmes critiques qui soutiennent les infrastructures mondiales. À mesure que notre dépendance à l'égard des logiciels augmente, la nécessité d'assurer leur qualité et leur fiabilité devient impérative. Dans ce contexte, l'apprentissage automatique et l'automatisation des tests sont non seulement opportuns, mais essentiels.",
+  "source": "@site/docs/theme-developpement/automatisation.md",
+  "sourceDirName": "theme-developpement",
+  "slug": "/theme-developpement/automatisation",
+  "permalink": "/docs/theme-developpement/automatisation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Développement",
+    "permalink": "/docs/category/développement"
+  },
+  "next": {
+    "title": "Stratégie de maintenabilité logicielle et les couts associés ?",
+    "permalink": "/docs/theme-developpement/maintenance"
+  }
+}

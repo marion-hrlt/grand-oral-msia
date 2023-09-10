@@ -35,8 +35,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Big Data",
-                "permalink": "/docs/category/big-data"
+                "title": "Sécurité",
+                "permalink": "/docs/category/sécurité"
               }
             },
             {
@@ -111,6 +111,110 @@
               "previous": {
                 "title": "Big Data, surveillance et confiance",
                 "permalink": "/docs/theme-big-data/big-data-confiance"
+              },
+              "next": {
+                "title": "Développement",
+                "permalink": "/docs/category/développement"
+              }
+            },
+            {
+              "unversionedId": "theme-developpement/automatisation",
+              "id": "theme-developpement/automatisation",
+              "title": "Apprentissage automatique et automatisation de tests de logiciels",
+              "description": "À l'aube de la quatrième révolution industrielle, l'ère numérique transforme radicalement nos modes de vie, de travail et d'interaction. Au cœur de cette transformation se trouve le logiciel, qui alimente tout, des applications mobiles que nous utilisons quotidiennement aux systèmes critiques qui soutiennent les infrastructures mondiales. À mesure que notre dépendance à l'égard des logiciels augmente, la nécessité d'assurer leur qualité et leur fiabilité devient impérative. Dans ce contexte, l'apprentissage automatique et l'automatisation des tests sont non seulement opportuns, mais essentiels.",
+              "source": "@site/docs/theme-developpement/automatisation.md",
+              "sourceDirName": "theme-developpement",
+              "slug": "/theme-developpement/automatisation",
+              "permalink": "/docs/theme-developpement/automatisation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Développement",
+                "permalink": "/docs/category/développement"
+              },
+              "next": {
+                "title": "Stratégie de maintenabilité logicielle et les couts associés ?",
+                "permalink": "/docs/theme-developpement/maintenance"
+              }
+            },
+            {
+              "unversionedId": "theme-developpement/devops",
+              "id": "theme-developpement/devops",
+              "title": "En quoi le DevOps peut améliorer la qualité de votre S.I. et la productivité de vos équipes IT ?",
+              "description": "À l'ère du numérique, l'agilité et la rapidité sont devenues des maîtres mots pour les entreprises souhaitant maintenir leur pertinence et leur avantage concurrentiel. Dans ce contexte, les services informatiques sont plus que jamais sous pression pour livrer rapidement des solutions innovantes tout en garantissant la stabilité et la sécurité des systèmes. Cependant, avec les méthodologies traditionnelles de développement et d'exploitation, cette aspiration semble parfois irréalisable, créant une tension entre la nécessité d'innover et celle d'assurer un service ininterrompu. C'est dans ce paysage complexe que le DevOps fait son entrée, offrant une promesse de synergie entre développement et opérations, et catalysant ainsi l'efficacité et la qualité. Dans cette présentation, nous plongerons dans l'univers du DevOps pour comprendre son potentiel transformateur, en explorant comment cette approche peut non seulement améliorer la qualité de votre Système d'Information (S.I.) mais également booster la productivité de vos équipes IT.",
+              "source": "@site/docs/theme-developpement/devops.md",
+              "sourceDirName": "theme-developpement",
+              "slug": "/theme-developpement/devops",
+              "permalink": "/docs/theme-developpement/devops",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Stratégie de maintenabilité logicielle et les couts associés ?",
+                "permalink": "/docs/theme-developpement/maintenance"
+              },
+              "next": {
+                "title": "Quels sont les enjeux et le positionnement de la RA/RV pour l’entreprise 4.0 ?",
+                "permalink": "/docs/theme-developpement/ra-rv"
+              }
+            },
+            {
+              "unversionedId": "theme-developpement/maintenance",
+              "id": "theme-developpement/maintenance",
+              "title": "Stratégie de maintenabilité logicielle et les couts associés ?",
+              "description": "1. L'omniprésence technologique: Aujourd'hui, nous vivons dans un monde où le numérique est omniprésent. De la finance à la santé, en passant par le commerce et l'éducation, chaque secteur s'appuie sur des logiciels pour améliorer ses opérations, sa performance et son interaction avec les utilisateurs.",
+              "source": "@site/docs/theme-developpement/maintenance.md",
+              "sourceDirName": "theme-developpement",
+              "slug": "/theme-developpement/maintenance",
+              "permalink": "/docs/theme-developpement/maintenance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Apprentissage automatique et automatisation de tests de logiciels",
+                "permalink": "/docs/theme-developpement/automatisation"
+              },
+              "next": {
+                "title": "En quoi le DevOps peut améliorer la qualité de votre S.I. et la productivité de vos équipes IT ?",
+                "permalink": "/docs/theme-developpement/devops"
+              }
+            },
+            {
+              "unversionedId": "theme-developpement/ra-rv",
+              "id": "theme-developpement/ra-rv",
+              "title": "Quels sont les enjeux et le positionnement de la RA/RV pour l’entreprise 4.0 ?",
+              "description": "Au seuil d'une ère dominée par la digitalisation et l'intégration technologique, l'entreprise moderne fait face à des défis et des opportunités sans précédent. Au centre de cette révolution, la Réalité Augmentée (RA) et la Réalité Virtuelle (RV) émergent non seulement comme de simples outils technologiques, mais aussi comme des catalyseurs fondamentaux pour transformer l'ADN même des organisations. Ces technologies, bien que différentes dans leur mise en œuvre, partagent un objectif commun : fusionner le monde numérique avec le monde physique pour offrir des expériences immersives et interactives. Pour l'entreprise 4.0, qui s'efforce de tirer parti de la data, de la connectivité, et des systèmes intelligents pour optimiser ses opérations, la RA et la RV présentent des opportunités tangibles d'améliorer l'efficacité, de stimuler l'innovation et d'engager les clients comme jamais auparavant. Cette introduction se propose de plonger dans l'univers de ces technologies disruptives, d'explorer leurs implications pour les entreprises d'aujourd'hui et de définir comment elles peuvent être intégrées stratégiquement pour modeler l'avenir.",
+              "source": "@site/docs/theme-developpement/ra-rv.md",
+              "sourceDirName": "theme-developpement",
+              "slug": "/theme-developpement/ra-rv",
+              "permalink": "/docs/theme-developpement/ra-rv",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "En quoi le DevOps peut améliorer la qualité de votre S.I. et la productivité de vos équipes IT ?",
+                "permalink": "/docs/theme-developpement/devops"
               },
               "next": {
                 "title": "Mobilité",
@@ -554,6 +658,58 @@
                 "title": "Amélioration continue",
                 "permalink": "/docs/theme-optimisation-si/amelioration-continue"
               }
+            },
+            {
+              "unversionedId": "theme-securite/securite-facteur-humain",
+              "id": "theme-securite/securite-facteur-humain",
+              "title": "Cybersécurité, l'humain reste la clé du problème",
+              "description": "Dans l'univers numérique en perpétuelle évolution dans lequel nous vivons, les entreprises investissent massivement dans la technologie pour sécuriser leurs infrastructures et protéger leurs données sensibles. Si ces mesures technologiques sont indispensables, elles ne représentent qu'une partie de la solution. La sécurité n'est pas uniquement une question de serveurs blindés, de pare-feu impénétrables et de systèmes de détection d'intrusion sophistiqués ; elle est tout autant, sinon plus, une question d'humains.",
+              "source": "@site/docs/theme-securite/securite-facteur-humain.md",
+              "sourceDirName": "theme-securite",
+              "slug": "/theme-securite/securite-facteur-humain",
+              "permalink": "/docs/theme-securite/securite-facteur-humain",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sous traiter le SOC, la solution des structures de taille moyenne",
+                "permalink": "/docs/theme-securite/soc"
+              },
+              "next": {
+                "title": "Big Data",
+                "permalink": "/docs/category/big-data"
+              }
+            },
+            {
+              "unversionedId": "theme-securite/soc",
+              "id": "theme-securite/soc",
+              "title": "Sous traiter le SOC, la solution des structures de taille moyenne",
+              "description": "1. L'évolution du paysage numérique :",
+              "source": "@site/docs/theme-securite/soc.md",
+              "sourceDirName": "theme-securite",
+              "slug": "/theme-securite/soc",
+              "permalink": "/docs/theme-securite/soc",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sécurité",
+                "permalink": "/docs/category/sécurité"
+              },
+              "next": {
+                "title": "Cybersécurité, l'humain reste la clé du problème",
+                "permalink": "/docs/theme-securite/securite-facteur-humain"
+              }
             }
           ],
           "drafts": [],
@@ -562,6 +718,27 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Sécurité",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "theme-securite/soc"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "theme-securite/securite-facteur-humain"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/sécurité",
+                  "permalink": "/docs/category/sécurité"
+                }
               },
               {
                 "type": "category",
@@ -586,6 +763,35 @@
                   "type": "generated-index",
                   "slug": "/category/big-data",
                   "permalink": "/docs/category/big-data"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Développement",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "theme-developpement/automatisation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "theme-developpement/maintenance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "theme-developpement/devops"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "theme-developpement/ra-rv"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/développement",
+                  "permalink": "/docs/category/développement"
                 }
               },
               {

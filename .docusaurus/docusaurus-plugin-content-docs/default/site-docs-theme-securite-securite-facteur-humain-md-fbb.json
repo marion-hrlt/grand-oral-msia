@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-securite/securite-facteur-humain",
+  "id": "theme-securite/securite-facteur-humain",
+  "title": "Cybersécurité, l'humain reste la clé du problème",
+  "description": "Dans l'univers numérique en perpétuelle évolution dans lequel nous vivons, les entreprises investissent massivement dans la technologie pour sécuriser leurs infrastructures et protéger leurs données sensibles. Si ces mesures technologiques sont indispensables, elles ne représentent qu'une partie de la solution. La sécurité n'est pas uniquement une question de serveurs blindés, de pare-feu impénétrables et de systèmes de détection d'intrusion sophistiqués ; elle est tout autant, sinon plus, une question d'humains.",
+  "source": "@site/docs/theme-securite/securite-facteur-humain.md",
+  "sourceDirName": "theme-securite",
+  "slug": "/theme-securite/securite-facteur-humain",
+  "permalink": "/docs/theme-securite/securite-facteur-humain",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sous traiter le SOC, la solution des structures de taille moyenne",
+    "permalink": "/docs/theme-securite/soc"
+  },
+  "next": {
+    "title": "Big Data",
+    "permalink": "/docs/category/big-data"
+  }
+}

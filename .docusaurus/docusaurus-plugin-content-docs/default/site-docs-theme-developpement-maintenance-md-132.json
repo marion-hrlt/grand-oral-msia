@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-developpement/maintenance",
+  "id": "theme-developpement/maintenance",
+  "title": "Stratégie de maintenabilité logicielle et les couts associés ?",
+  "description": "1. L'omniprésence technologique: Aujourd'hui, nous vivons dans un monde où le numérique est omniprésent. De la finance à la santé, en passant par le commerce et l'éducation, chaque secteur s'appuie sur des logiciels pour améliorer ses opérations, sa performance et son interaction avec les utilisateurs.",
+  "source": "@site/docs/theme-developpement/maintenance.md",
+  "sourceDirName": "theme-developpement",
+  "slug": "/theme-developpement/maintenance",
+  "permalink": "/docs/theme-developpement/maintenance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Apprentissage automatique et automatisation de tests de logiciels",
+    "permalink": "/docs/theme-developpement/automatisation"
+  },
+  "next": {
+    "title": "En quoi le DevOps peut améliorer la qualité de votre S.I. et la productivité de vos équipes IT ?",
+    "permalink": "/docs/theme-developpement/devops"
+  }
+}

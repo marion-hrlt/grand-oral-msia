@@ -94,11 +94,17 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '236'),
+    component: ComponentCreator('/docs', '59d'),
     routes: [
       {
         path: '/docs/category/big-data',
         component: ComponentCreator('/docs/category/big-data', '3f2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/développement',
+        component: ComponentCreator('/docs/category/développement', 'ae2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -127,6 +133,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/sécurité',
+        component: ComponentCreator('/docs/category/sécurité', '69c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'aed'),
         exact: true,
@@ -147,6 +159,30 @@ export default [
       {
         path: '/docs/theme-big-data/big-data-valeur',
         component: ComponentCreator('/docs/theme-big-data/big-data-valeur', '186'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-developpement/automatisation',
+        component: ComponentCreator('/docs/theme-developpement/automatisation', '974'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-developpement/devops',
+        component: ComponentCreator('/docs/theme-developpement/devops', '611'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-developpement/maintenance',
+        component: ComponentCreator('/docs/theme-developpement/maintenance', '42f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-developpement/ra-rv',
+        component: ComponentCreator('/docs/theme-developpement/ra-rv', '4ed'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -249,6 +285,18 @@ export default [
       {
         path: '/docs/theme-optimisation-si/veille-et-strategie',
         component: ComponentCreator('/docs/theme-optimisation-si/veille-et-strategie', '1ab'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-securite/securite-facteur-humain',
+        component: ComponentCreator('/docs/theme-securite/securite-facteur-humain', '15a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-securite/soc',
+        component: ComponentCreator('/docs/theme-securite/soc', '346'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

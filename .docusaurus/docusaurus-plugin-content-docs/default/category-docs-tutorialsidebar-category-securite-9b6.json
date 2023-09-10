@@ -1,0 +1,15 @@
+{
+  "title": "Sécurité",
+  "slug": "/category/sécurité",
+  "permalink": "/docs/category/sécurité",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Sous traiter le SOC, la solution des structures de taille moyenne",
+      "permalink": "/docs/theme-securite/soc"
+    }
+  }
+}
