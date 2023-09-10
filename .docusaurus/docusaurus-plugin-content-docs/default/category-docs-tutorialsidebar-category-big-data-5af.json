@@ -1,0 +1,15 @@
+{
+  "title": "Big Data",
+  "slug": "/category/big-data",
+  "permalink": "/docs/category/big-data",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Big Data et Legislation",
+      "permalink": "/docs/theme-big-data/big-data-legislation"
+    }
+  }
+}

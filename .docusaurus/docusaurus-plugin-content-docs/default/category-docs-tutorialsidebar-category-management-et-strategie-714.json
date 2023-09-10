@@ -4,12 +4,12 @@
   "permalink": "/docs/category/management-et-stratégie",
   "navigation": {
     "previous": {
-      "title": "Les générations et la mobilité",
-      "permalink": "/docs/theme-mobilite/generations"
+      "title": "Les outils numériques et la mobilité",
+      "permalink": "/docs/theme-mobilite/outils-mobilite"
     },
     "next": {
-      "title": "Les générations et le management",
-      "permalink": "/docs/theme-management-strategie/generations"
+      "title": "DSI: Une refonte nécessaire post-COVID",
+      "permalink": "/docs/theme-management-strategie/refonte-dsi-covid"
     }
   }
 }

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-big-data/big-data-confiance",
+  "id": "theme-big-data/big-data-confiance",
+  "title": "Big Data, surveillance et confiance",
+  "description": "Introduction : Big Data, Surveillance et Confiance - Naviguer dans la Mer Numérique",
+  "source": "@site/docs/theme-big-data/big-data-confiance.md",
+  "sourceDirName": "theme-big-data",
+  "slug": "/theme-big-data/big-data-confiance",
+  "permalink": "/docs/theme-big-data/big-data-confiance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Big Data et Legislation",
+    "permalink": "/docs/theme-big-data/big-data-legislation"
+  },
+  "next": {
+    "title": "Data Analytics ou comment donner de la valeur aux données..",
+    "permalink": "/docs/theme-big-data/big-data-valeur"
+  }
+}

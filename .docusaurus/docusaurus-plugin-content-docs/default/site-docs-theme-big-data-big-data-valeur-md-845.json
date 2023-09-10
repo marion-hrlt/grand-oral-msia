@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-big-data/big-data-valeur",
+  "id": "theme-big-data/big-data-valeur",
+  "title": "Data Analytics ou comment donner de la valeur aux données..",
+  "description": "Dans un monde toujours plus connecté et numérisé, nous sommes submergés de données provenant de sources variées, que ce soit nos smartphones, nos voitures, nos appareils ménagers ou même les sites web que nous visitons. Cette explosion d'informations, souvent appelée \"Big Data\", est comme une nouvelle forme de pétrole brut pour le 21e siècle. Toutefois, tout comme le pétrole brut, ces données, dans leur forme brute, ont peu de valeur. C'est là qu'intervient le \"Data Analytics\". Il représente le processus de raffinage, transformant cette matière première en produits précieux. Pour les entreprises, ces \"produits\" se traduisent par des informations exploitables, des tendances, des prévisions et des stratégies basées sur des données. Ces précieuses gouttes d'informations, une fois correctement extraites, peuvent entraîner une croissance substantielle, une amélioration de l'efficacité et un avantage concurrentiel. Ainsi, comment le Data Analytics, en tant que mécanisme transformateur, donne-t-il vie et valeur à cet océan de données et pourquoi est-il crucial pour les entreprises de l'intégrer dans leur stratégie globale?",
+  "source": "@site/docs/theme-big-data/big-data-valeur.md",
+  "sourceDirName": "theme-big-data",
+  "slug": "/theme-big-data/big-data-valeur",
+  "permalink": "/docs/theme-big-data/big-data-valeur",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Big Data, surveillance et confiance",
+    "permalink": "/docs/theme-big-data/big-data-confiance"
+  },
+  "next": {
+    "title": "Mobilité",
+    "permalink": "/docs/category/mobilité"
+  }
+}

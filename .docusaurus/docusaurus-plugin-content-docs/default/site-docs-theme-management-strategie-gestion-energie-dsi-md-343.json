@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-management-strategie/gestion-energie-dsi",
+  "id": "theme-management-strategie/gestion-energie-dsi",
+  "title": "La gestion de l'énergie est elle toujours d'actualité pour la DSI ?",
+  "description": "La transformation numérique des entreprises a révolutionné notre manière de travailler, de communiquer et d'innover. Si cette transformation apporte de nombreux avantages en termes d'efficacité, de rapidité et de possibilités, elle est aussi synonyme d'une consommation énergétique accrue. Ainsi, la gestion de l'énergie dans le domaine de l'IT est devenue un impératif pour plusieurs raisons :",
+  "source": "@site/docs/theme-management-strategie/gestion-energie-dsi.md",
+  "sourceDirName": "theme-management-strategie",
+  "slug": "/theme-management-strategie/gestion-energie-dsi",
+  "permalink": "/docs/theme-management-strategie/gestion-energie-dsi",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DSI et RH: comment solutionner le manque de compétence ?",
+    "permalink": "/docs/theme-management-strategie/dsi-rh"
+  },
+  "next": {
+    "title": "L'impact du digital épiphenomene ou Tsunami",
+    "permalink": "/docs/theme-management-strategie/impact-digital"
+  }
+}

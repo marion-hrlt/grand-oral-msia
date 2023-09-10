@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-management-strategie/impact-digital",
+  "id": "theme-management-strategie/impact-digital",
+  "title": "L'impact du digital épiphenomene ou Tsunami",
+  "description": "Changement de paradigme : Depuis l'avènement de l'ère informatique, nous sommes passés d'une société industrielle à une société de l'information. L'accès rapide et omniprésent à l'information modifie radicalement la façon dont nous communiquons, travaillons et consommons.",
+  "source": "@site/docs/theme-management-strategie/impact-digital.md",
+  "sourceDirName": "theme-management-strategie",
+  "slug": "/theme-management-strategie/impact-digital",
+  "permalink": "/docs/theme-management-strategie/impact-digital",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "La gestion de l'énergie est elle toujours d'actualité pour la DSI ?",
+    "permalink": "/docs/theme-management-strategie/gestion-energie-dsi"
+  },
+  "next": {
+    "title": "IT: Sur quels standars s'appuyer en terme de gouvernance ?",
+    "permalink": "/docs/theme-management-strategie/it-gouvernance"
+  }
+}

@@ -94,11 +94,23 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '417'),
+    component: ComponentCreator('/docs', '236'),
     routes: [
+      {
+        path: '/docs/category/big-data',
+        component: ComponentCreator('/docs/category/big-data', '3f2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/docs/category/intelligence-artificielle',
         component: ComponentCreator('/docs/category/intelligence-artificielle', '889'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/management-et-stratégie',
+        component: ComponentCreator('/docs/category/management-et-stratégie', '134'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -117,6 +129,24 @@ export default [
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro', 'aed'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-big-data/big-data-confiance',
+        component: ComponentCreator('/docs/theme-big-data/big-data-confiance', 'e8f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-big-data/big-data-legislation',
+        component: ComponentCreator('/docs/theme-big-data/big-data-legislation', '4bc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-big-data/big-data-valeur',
+        component: ComponentCreator('/docs/theme-big-data/big-data-valeur', '186'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -141,6 +171,42 @@ export default [
       {
         path: '/docs/theme-ia/ia-securite',
         component: ComponentCreator('/docs/theme-ia/ia-securite', '2dc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-management-strategie/dsi-rh',
+        component: ComponentCreator('/docs/theme-management-strategie/dsi-rh', '47b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-management-strategie/gestion-energie-dsi',
+        component: ComponentCreator('/docs/theme-management-strategie/gestion-energie-dsi', '6ef'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-management-strategie/impact-digital',
+        component: ComponentCreator('/docs/theme-management-strategie/impact-digital', '53d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-management-strategie/it-gouvernance',
+        component: ComponentCreator('/docs/theme-management-strategie/it-gouvernance', '469'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-management-strategie/refonte-dsi-covid',
+        component: ComponentCreator('/docs/theme-management-strategie/refonte-dsi-covid', 'fdb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/theme-management-strategie/rssi',
+        component: ComponentCreator('/docs/theme-management-strategie/rssi', 'bd5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

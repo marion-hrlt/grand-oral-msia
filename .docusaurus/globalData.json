@@ -16,6 +16,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "theme-big-data/big-data-confiance",
+              "path": "/docs/theme-big-data/big-data-confiance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-big-data/big-data-legislation",
+              "path": "/docs/theme-big-data/big-data-legislation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-big-data/big-data-valeur",
+              "path": "/docs/theme-big-data/big-data-valeur",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "theme-ia/ia-droit",
               "path": "/docs/theme-ia/ia-droit",
               "sidebar": "tutorialSidebar"
@@ -33,6 +48,36 @@
             {
               "id": "theme-ia/ia-securite",
               "path": "/docs/theme-ia/ia-securite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-management-strategie/dsi-rh",
+              "path": "/docs/theme-management-strategie/dsi-rh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-management-strategie/gestion-energie-dsi",
+              "path": "/docs/theme-management-strategie/gestion-energie-dsi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-management-strategie/impact-digital",
+              "path": "/docs/theme-management-strategie/impact-digital",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-management-strategie/it-gouvernance",
+              "path": "/docs/theme-management-strategie/it-gouvernance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-management-strategie/refonte-dsi-covid",
+              "path": "/docs/theme-management-strategie/refonte-dsi-covid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "theme-management-strategie/rssi",
+              "path": "/docs/theme-management-strategie/rssi",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -71,8 +116,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "/category/big-data",
+              "path": "/docs/category/big-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/mobilité",
               "path": "/docs/category/mobilité",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/management-et-stratégie",
+              "path": "/docs/category/management-et-stratégie",
               "sidebar": "tutorialSidebar"
             },
             {

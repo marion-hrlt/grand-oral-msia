@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-management-strategie/rssi",
+  "id": "theme-management-strategie/rssi",
+  "title": "RSSI: Quels impacts sur le métier avec l'avénement du cloud ?",
+  "description": "L'ère du digital: Nous vivons dans une ère où la transformation digitale est plus qu'un simple jargon – elle est au cœur de presque toutes les facettes de notre quotidien. Les entreprises ne sont pas en reste ; elles sont constamment à la recherche de moyens pour augmenter leur efficacité, améliorer leur compétitivité et répondre aux demandes croissantes de leurs clients.",
+  "source": "@site/docs/theme-management-strategie/rssi.md",
+  "sourceDirName": "theme-management-strategie",
+  "slug": "/theme-management-strategie/rssi",
+  "permalink": "/docs/theme-management-strategie/rssi",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IT: Sur quels standars s'appuyer en terme de gouvernance ?",
+    "permalink": "/docs/theme-management-strategie/it-gouvernance"
+  },
+  "next": {
+    "title": "Intelligence artificielle",
+    "permalink": "/docs/category/intelligence-artificielle"
+  }
+}

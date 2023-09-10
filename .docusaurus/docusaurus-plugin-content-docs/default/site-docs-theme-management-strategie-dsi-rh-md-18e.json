@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-management-strategie/dsi-rh",
+  "id": "theme-management-strategie/dsi-rh",
+  "title": "DSI et RH: comment solutionner le manque de compétence ?",
+  "description": "---",
+  "source": "@site/docs/theme-management-strategie/dsi-rh.md",
+  "sourceDirName": "theme-management-strategie",
+  "slug": "/theme-management-strategie/dsi-rh",
+  "permalink": "/docs/theme-management-strategie/dsi-rh",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DSI: Une refonte nécessaire post-COVID",
+    "permalink": "/docs/theme-management-strategie/refonte-dsi-covid"
+  },
+  "next": {
+    "title": "La gestion de l'énergie est elle toujours d'actualité pour la DSI ?",
+    "permalink": "/docs/theme-management-strategie/gestion-energie-dsi"
+  }
+}

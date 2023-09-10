@@ -179,16 +179,24 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-417": {
+  "/docs-236": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docse-60-356"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
+  "/docs/category/big-data-3f2": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-big-data-019-4f4"
+  },
   "/docs/category/intelligence-artificielle-889": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-intelligence-artificielle-908-b31"
+  },
+  "/docs/category/management-et-stratégie-134": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-management-et-strategie-960-76b"
   },
   "/docs/category/mobilité-d4a": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -201,6 +209,18 @@
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/theme-big-data/big-data-confiance-e8f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-big-data-big-data-confiance-2-ea-0b7"
+  },
+  "/docs/theme-big-data/big-data-legislation-4bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-big-data-big-data-legislation-424-af3"
+  },
+  "/docs/theme-big-data/big-data-valeur-186": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-big-data-big-data-valeur-845-1e6"
   },
   "/docs/theme-ia/ia-droit-337": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -217,6 +237,30 @@
   "/docs/theme-ia/ia-securite-2dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-theme-ia-ia-securite-5-d-3-a73"
+  },
+  "/docs/theme-management-strategie/dsi-rh-47b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-management-strategie-dsi-rh-18-e-bc5"
+  },
+  "/docs/theme-management-strategie/gestion-energie-dsi-6ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-management-strategie-gestion-energie-dsi-343-3c3"
+  },
+  "/docs/theme-management-strategie/impact-digital-53d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-management-strategie-impact-digitale-45-01a"
+  },
+  "/docs/theme-management-strategie/it-gouvernance-469": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-management-strategie-it-gouvernancea-27-369"
+  },
+  "/docs/theme-management-strategie/refonte-dsi-covid-fdb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-management-strategie-refonte-dsi-covid-74-e-ce2"
+  },
+  "/docs/theme-management-strategie/rssi-bd5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-theme-management-strategie-rssieb-7-061"
   },
   "/docs/theme-mobilite/byod-e33": {
     "__comp": "__comp---theme-doc-item-178-a40",

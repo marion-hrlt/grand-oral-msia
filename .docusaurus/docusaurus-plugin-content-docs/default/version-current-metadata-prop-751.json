@@ -17,6 +17,33 @@
       },
       {
         "type": "category",
+        "label": "Big Data",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Big Data et Legislation",
+            "href": "/docs/theme-big-data/big-data-legislation",
+            "docId": "theme-big-data/big-data-legislation"
+          },
+          {
+            "type": "link",
+            "label": "Big Data, surveillance et confiance",
+            "href": "/docs/theme-big-data/big-data-confiance",
+            "docId": "theme-big-data/big-data-confiance"
+          },
+          {
+            "type": "link",
+            "label": "Data Analytics ou comment donner de la valeur aux données..",
+            "href": "/docs/theme-big-data/big-data-valeur",
+            "docId": "theme-big-data/big-data-valeur"
+          }
+        ],
+        "href": "/docs/category/big-data"
+      },
+      {
+        "type": "category",
         "label": "Mobilité",
         "collapsible": true,
         "collapsed": true,
@@ -47,6 +74,51 @@
           }
         ],
         "href": "/docs/category/mobilité"
+      },
+      {
+        "type": "category",
+        "label": "Management et stratégie",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "DSI: Une refonte nécessaire post-COVID",
+            "href": "/docs/theme-management-strategie/refonte-dsi-covid",
+            "docId": "theme-management-strategie/refonte-dsi-covid"
+          },
+          {
+            "type": "link",
+            "label": "DSI et RH: comment solutionner le manque de compétence ?",
+            "href": "/docs/theme-management-strategie/dsi-rh",
+            "docId": "theme-management-strategie/dsi-rh"
+          },
+          {
+            "type": "link",
+            "label": "La gestion de l'énergie est elle toujours d'actualité pour la DSI ?",
+            "href": "/docs/theme-management-strategie/gestion-energie-dsi",
+            "docId": "theme-management-strategie/gestion-energie-dsi"
+          },
+          {
+            "type": "link",
+            "label": "L'impact du digital épiphenomene ou Tsunami",
+            "href": "/docs/theme-management-strategie/impact-digital",
+            "docId": "theme-management-strategie/impact-digital"
+          },
+          {
+            "type": "link",
+            "label": "IT: Sur quels standars s'appuyer en terme de gouvernance ?",
+            "href": "/docs/theme-management-strategie/it-gouvernance",
+            "docId": "theme-management-strategie/it-gouvernance"
+          },
+          {
+            "type": "link",
+            "label": "RSSI: Quels impacts sur le métier avec l'avénement du cloud ?",
+            "href": "/docs/theme-management-strategie/rssi",
+            "docId": "theme-management-strategie/rssi"
+          }
+        ],
+        "href": "/docs/category/management-et-stratégie"
       },
       {
         "type": "category",
@@ -117,6 +189,24 @@
       "description": "Liste des sujets du Grand Oral (2023)",
       "sidebar": "tutorialSidebar"
     },
+    "theme-big-data/big-data-confiance": {
+      "id": "theme-big-data/big-data-confiance",
+      "title": "Big Data, surveillance et confiance",
+      "description": "Introduction : Big Data, Surveillance et Confiance - Naviguer dans la Mer Numérique",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-big-data/big-data-legislation": {
+      "id": "theme-big-data/big-data-legislation",
+      "title": "Big Data et Legislation",
+      "description": "Évolution du paysage numérique :",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-big-data/big-data-valeur": {
+      "id": "theme-big-data/big-data-valeur",
+      "title": "Data Analytics ou comment donner de la valeur aux données..",
+      "description": "Dans un monde toujours plus connecté et numérisé, nous sommes submergés de données provenant de sources variées, que ce soit nos smartphones, nos voitures, nos appareils ménagers ou même les sites web que nous visitons. Cette explosion d'informations, souvent appelée \"Big Data\", est comme une nouvelle forme de pétrole brut pour le 21e siècle. Toutefois, tout comme le pétrole brut, ces données, dans leur forme brute, ont peu de valeur. C'est là qu'intervient le \"Data Analytics\". Il représente le processus de raffinage, transformant cette matière première en produits précieux. Pour les entreprises, ces \"produits\" se traduisent par des informations exploitables, des tendances, des prévisions et des stratégies basées sur des données. Ces précieuses gouttes d'informations, une fois correctement extraites, peuvent entraîner une croissance substantielle, une amélioration de l'efficacité et un avantage concurrentiel. Ainsi, comment le Data Analytics, en tant que mécanisme transformateur, donne-t-il vie et valeur à cet océan de données et pourquoi est-il crucial pour les entreprises de l'intégrer dans leur stratégie globale?",
+      "sidebar": "tutorialSidebar"
+    },
     "theme-ia/ia-droit": {
       "id": "theme-ia/ia-droit",
       "title": "IA et Droit",
@@ -139,6 +229,42 @@
       "id": "theme-ia/ia-securite",
       "title": "IA et Sécurité",
       "description": "À une époque où la technologie façonne chaque aspect de nos vies, l'Intelligence Artificielle (IA) s'est imposée comme une force incontournable, modifiant radicalement notre manière de penser, de travailler et d'interagir. Elle touche à tout, de la simple recommandation de chansons sur une application de musique à la conduite autonome des véhicules. Toutefois, en tant que chef de projet dans une entreprise moderne, il est crucial de reconnaître qu'avec cette puissance innovante de l'IA vient également une nouvelle gamme de défis, en particulier en matière de sécurité. Ainsi, alors que l'IA offre des possibilités presque illimitées pour améliorer la productivité, la précision et l'innovation, il est fondamental d'aborder ses capacités avec prudence et conscience. Cette présentation vise à déchiffrer le lien complexe entre l'IA et la sécurité, en explorant les problèmes, les enjeux, les bénéfices et les précautions nécessaires pour naviguer avec succès dans cet écosystème dynamique.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-management-strategie/dsi-rh": {
+      "id": "theme-management-strategie/dsi-rh",
+      "title": "DSI et RH: comment solutionner le manque de compétence ?",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-management-strategie/gestion-energie-dsi": {
+      "id": "theme-management-strategie/gestion-energie-dsi",
+      "title": "La gestion de l'énergie est elle toujours d'actualité pour la DSI ?",
+      "description": "La transformation numérique des entreprises a révolutionné notre manière de travailler, de communiquer et d'innover. Si cette transformation apporte de nombreux avantages en termes d'efficacité, de rapidité et de possibilités, elle est aussi synonyme d'une consommation énergétique accrue. Ainsi, la gestion de l'énergie dans le domaine de l'IT est devenue un impératif pour plusieurs raisons :",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-management-strategie/impact-digital": {
+      "id": "theme-management-strategie/impact-digital",
+      "title": "L'impact du digital épiphenomene ou Tsunami",
+      "description": "Changement de paradigme : Depuis l'avènement de l'ère informatique, nous sommes passés d'une société industrielle à une société de l'information. L'accès rapide et omniprésent à l'information modifie radicalement la façon dont nous communiquons, travaillons et consommons.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-management-strategie/it-gouvernance": {
+      "id": "theme-management-strategie/it-gouvernance",
+      "title": "IT: Sur quels standars s'appuyer en terme de gouvernance ?",
+      "description": "La gouvernance IT est aujourd'hui un maillon essentiel pour toute organisation cherchant à maximiser l'efficacité de ses opérations numériques. Elle joue un rôle critique non seulement en alignant la technologie avec la stratégie commerciale, mais aussi en assurant la sécurité, la conformité et la résilience de l'environnement technologique.",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-management-strategie/refonte-dsi-covid": {
+      "id": "theme-management-strategie/refonte-dsi-covid",
+      "title": "DSI: Une refonte nécessaire post-COVID",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "theme-management-strategie/rssi": {
+      "id": "theme-management-strategie/rssi",
+      "title": "RSSI: Quels impacts sur le métier avec l'avénement du cloud ?",
+      "description": "L'ère du digital: Nous vivons dans une ère où la transformation digitale est plus qu'un simple jargon – elle est au cœur de presque toutes les facettes de notre quotidien. Les entreprises ne sont pas en reste ; elles sont constamment à la recherche de moyens pour augmenter leur efficacité, améliorer leur compétitivité et répondre aux demandes croissantes de leurs clients.",
       "sidebar": "tutorialSidebar"
     },
     "theme-mobilite/byod": {

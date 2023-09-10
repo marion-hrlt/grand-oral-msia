@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-management-strategie/it-gouvernance",
+  "id": "theme-management-strategie/it-gouvernance",
+  "title": "IT: Sur quels standars s'appuyer en terme de gouvernance ?",
+  "description": "La gouvernance IT est aujourd'hui un maillon essentiel pour toute organisation cherchant à maximiser l'efficacité de ses opérations numériques. Elle joue un rôle critique non seulement en alignant la technologie avec la stratégie commerciale, mais aussi en assurant la sécurité, la conformité et la résilience de l'environnement technologique.",
+  "source": "@site/docs/theme-management-strategie/it-gouvernance.md",
+  "sourceDirName": "theme-management-strategie",
+  "slug": "/theme-management-strategie/it-gouvernance",
+  "permalink": "/docs/theme-management-strategie/it-gouvernance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "L'impact du digital épiphenomene ou Tsunami",
+    "permalink": "/docs/theme-management-strategie/impact-digital"
+  },
+  "next": {
+    "title": "RSSI: Quels impacts sur le métier avec l'avénement du cloud ?",
+    "permalink": "/docs/theme-management-strategie/rssi"
+  }
+}

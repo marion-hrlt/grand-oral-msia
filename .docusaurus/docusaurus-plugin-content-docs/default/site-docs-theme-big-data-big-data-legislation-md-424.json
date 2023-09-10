@@ -1,0 +1,26 @@
+{
+  "unversionedId": "theme-big-data/big-data-legislation",
+  "id": "theme-big-data/big-data-legislation",
+  "title": "Big Data et Legislation",
+  "description": "Évolution du paysage numérique :",
+  "source": "@site/docs/theme-big-data/big-data-legislation.md",
+  "sourceDirName": "theme-big-data",
+  "slug": "/theme-big-data/big-data-legislation",
+  "permalink": "/docs/theme-big-data/big-data-legislation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Big Data",
+    "permalink": "/docs/category/big-data"
+  },
+  "next": {
+    "title": "Big Data, surveillance et confiance",
+    "permalink": "/docs/theme-big-data/big-data-confiance"
+  }
+}
